@@ -1,4 +1,15 @@
 window.BASELINE_DATA = {
+  source: {
+    commit: {
+      id: "68d3bae20f4a639465ca6c8ed1a435cdabdea532",
+      message: "[DO NOT MERGE] bench: switch foundry-capable scenarios to forge commands",
+      timestamp: "2026-05-22T20:27:16Z",
+      url: "https://github.com/NomicFoundation/hardhat/pull/8324/commits/68d3bae20f4a639465ca6c8ed1a435cdabdea532"
+    },
+    date: 1779725558665,
+    runsAggregated: 3,
+    notes: "Aggregated 3 CI runs from the commit above to reduce variability on long-running benchmarks. Treated as a one-time cost; repeating this for HH3 would be too expensive. Foundry versions are taken from each scenario's preinstall-foundry.sh (`install_foundry vX.Y.Z`)."
+  },
   entries: {
     "1inch-aqua / cold compile": {
       name: "Foundry v1.7.1",
