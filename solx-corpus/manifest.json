@@ -1,0 +1,89 @@
+{
+  "hardhatCommit": "69c690ba3c596f9236e6db075604bbddfc07731b",
+  "runUrl": "https://github.com/NomicFoundation/hardhat/actions/runs/32350668697",
+  "hardhatSolxVersion": "2.0.0",
+  "scenarios": {
+    "1inch-aqua-solx": {
+      "repo": "anaPerezGhiglia/aqua",
+      "commit": "19277969b5e67b5b55968422b4cba4029544807c",
+      "files": {
+        "solx-legacy-dwarf.json": "8f1768c52de954bec8e1bea8eb2da580931d8e10e7d07e09b8f6842808cab182",
+        "solx-via-ir-dwarf.json": "4dffb993d8960c8a4fb3925a4a2b10358be146ebad9dba83a20f582c0b85d951"
+      },
+      "skippedVariants": {}
+    },
+    "1inch-swap-vm-solx": {
+      "repo": "anaPerezGhiglia/1inch-swap-vm",
+      "commit": "7102f412db16aaf10dafa8dd40c4b85f99f0bb4e",
+      "files": {
+        "solx-legacy-dwarf.json": "01e5af1179d5fa32f8f151df97fd88123c97e813d6fda53c4fa5fe0b0e815408",
+        "solx-via-ir-dwarf.json": "b34816e0351424e3d2f9864545efd44e050f34bba734034cf50efaa1469d6644"
+      },
+      "skippedVariants": {}
+    },
+    "aave-v4-solx": {
+      "repo": "anaPerezGhiglia/aave-v4",
+      "commit": "f729aeff7cc61d576e8f89e818e05265ec9f65e9",
+      "files": {
+        "solx-legacy-dwarf.json": "1ec4c463e0093c158b3d66eedb2ecd9fc7dc26ffc9577a40462683668435f1cf",
+        "solx-via-ir-dwarf.json": "056ecbf4b8b0458a3064ba35b696bf6350e1339cc92694ce3dc1004e871872dd"
+      },
+      "skippedVariants": {}
+    },
+    "ens-verifiable-factory-solx": {
+      "repo": "anaPerezGhiglia/ensdomains-verifiable-factory",
+      "commit": "cd6622442c298ae89c4d92bcbc93a0faca4fbfae",
+      "files": {
+        "solx-legacy-dwarf.json": "54d2ce5b7ab8d8e8498b67ca375fae813e2ad937191d2c11b9c03ab7161835bf",
+        "solx-via-ir-dwarf.json": "8f236da6d973200e3efd86f3aabeb1c2c81810a97ca3e672954c030d38b2245f"
+      },
+      "skippedVariants": {}
+    },
+    "graph-horizon-solx": {
+      "repo": "NomicFoundation/graphprotocol-contracts",
+      "commit": "68661591b7e2e7d1672667769458aa8d84acc332",
+      "files": {
+        "solx-legacy-dwarf.json": "c35ba1a1690df2432881678bb976f07788d5be80feafa4ac4bd81f5871511884",
+        "solx-via-ir-dwarf.json": "95b6e1c341dc150a1307a8186cbb97ea247e1146361147477f621057c67bff6c"
+      },
+      "skippedVariants": {}
+    },
+    "lidofinance-core-solx": {
+      "repo": "NomicFoundation/lido-core",
+      "commit": "28bc9f7ff2c4425849bbd883b7e52820feecd4c6",
+      "files": {
+        "solx-via-ir-dwarf.json": "7a9afcb5b2b7220d6933a547359483ddaa340b2c5a7210413730d933e34c87f5"
+      },
+      "skippedVariants": {
+        "solx-legacy-dwarf.json": "the vaults tree is IR-only: stack-too-deep in SRLib, plus RefSlotCache's struct-array copy to storage, which legacy codegen rejects with an UnimplementedFeatureError"
+      }
+    },
+    "openzeppelin-contracts-0.34": {
+      "repo": "nomicfoundation/openzeppelin-contracts",
+      "commit": "f72b6b4616806a0cb29eb61d6baf05ab5ff01558",
+      "files": {
+        "solx-legacy-dwarf.json": "8311ab491481413624d1c1ef0d8b0adbe11b6ce4b07dd24c66b7060a3aa2fcc7",
+        "solx-via-ir-dwarf.json": "08df33522f6115eafbdd92b1a5cf5cfe59b4b11a91f5f28cf93abbbe40f830b1"
+      },
+      "skippedVariants": {}
+    },
+    "solady-solx": {
+      "repo": "nebasuke/solady",
+      "commit": "13d87ff27de01eb671dbee41b6d84ef98d5e2c32",
+      "files": {
+        "solx-legacy-dwarf.json": "3606e7b783e1cb0a3b16a1fff192585be661fcfebe1b921993872c7fe995aeac",
+        "solx-via-ir-dwarf.json": "9a0af61c0b1c82deb2eca9213833d54c33cb1397a10087452c263d10b027b3bf"
+      },
+      "skippedVariants": {}
+    },
+    "uniswap-v4-core-solx": {
+      "repo": "anaPerezGhiglia/uniswap-v4-core",
+      "commit": "ab2b22eef19e0abe29d67420dde81b5d54455ae5",
+      "files": {
+        "solx-legacy-dwarf.json": "8facbeecb3833a851ff341703c980b938732811c98c861b4015d13bdee10c9e9",
+        "solx-via-ir-dwarf.json": "defecf4a368689c626f350a9edb14624f499f3d031cd3c5a3bd29a21ffabeb37"
+      },
+      "skippedVariants": {}
+    }
+  }
+}
