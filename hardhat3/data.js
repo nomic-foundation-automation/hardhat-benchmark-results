@@ -46124,21 +46124,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2119999999999997],\"min\":2.2119999999999997,\"max\":2.2119999999999997,\"median\":2.2119999999999997,\"mean\":2.2119999999999997,\"user\":{\"times\":[1.7645],\"min\":1.7645,\"max\":1.7645,\"median\":1.7645,\"mean\":1.7645},\"system\":{\"times\":[0.4475],\"min\":0.4475,\"max\":0.4475,\"median\":0.4475,\"mean\":0.4475}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.553438036000124,
             "range": "± 0.01348359293629463",
             "unit": "s",
             "extra": "{\"times\":[5.54390369600011,5.562972376000136],\"min\":5.54390369600011,\"max\":5.562972376000136,\"median\":5.553438036000124,\"mean\":5.553438036000124,\"peakRssMb\":370}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 370,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[370,365],\"min\":365,\"max\":370,\"median\":367.5,\"mean\":367.5,\"stddev\":3.5355339059327378}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.386,
             "range": "± 0.01272792206135771",
             "unit": "s",
@@ -47534,21 +47534,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2],\"min\":2.2,\"max\":2.2,\"median\":2.2,\"mean\":2.2,\"user\":{\"times\":[1.78],\"min\":1.78,\"max\":1.78,\"median\":1.78,\"mean\":1.78},\"system\":{\"times\":[0.42],\"min\":0.42,\"max\":0.42,\"median\":0.42,\"mean\":0.42}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.566787690999917,
             "range": "± 0.007446583939047181",
             "unit": "s",
             "extra": "{\"times\":[5.561522160999942,5.5720532209998925],\"min\":5.561522160999942,\"max\":5.5720532209998925,\"median\":5.566787690999917,\"mean\":5.566787690999917,\"peakRssMb\":367}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 367,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[367,367],\"min\":367,\"max\":367,\"median\":367,\"mean\":367,\"stddev\":0}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.414999999999999,
             "range": "± 0.007071067811865324",
             "unit": "s",
@@ -48944,21 +48944,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2],\"min\":2.2,\"max\":2.2,\"median\":2.2,\"mean\":2.2,\"user\":{\"times\":[1.8],\"min\":1.8,\"max\":1.8,\"median\":1.8,\"mean\":1.8},\"system\":{\"times\":[0.4],\"min\":0.4,\"max\":0.4,\"median\":0.4,\"mean\":0.4}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.550538929499686,
             "range": "± 0.003006942595522254",
             "unit": "s",
             "extra": "{\"times\":[5.552665158999618,5.548412699999753],\"min\":5.548412699999753,\"max\":5.552665158999618,\"median\":5.550538929499686,\"mean\":5.550538929499686,\"peakRssMb\":369}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 369,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[369,367],\"min\":367,\"max\":369,\"median\":368,\"mean\":368,\"stddev\":1.4142135623730951}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.415,
             "range": "± 0.0212132034355966",
             "unit": "s",
@@ -50354,21 +50354,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.185],\"min\":2.185,\"max\":2.185,\"median\":2.185,\"mean\":2.185,\"user\":{\"times\":[1.775],\"min\":1.775,\"max\":1.775,\"median\":1.775,\"mean\":1.775},\"system\":{\"times\":[0.41],\"min\":0.41,\"max\":0.41,\"median\":0.41,\"mean\":0.41}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.545332898000023,
             "range": "± 0.008992510281514321",
             "unit": "s",
             "extra": "{\"times\":[5.538974233000074,5.551691562999971],\"min\":5.538974233000074,\"max\":5.551691562999971,\"median\":5.545332898000023,\"mean\":5.545332898000023,\"peakRssMb\":368}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 368,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[368,365],\"min\":365,\"max\":368,\"median\":366.5,\"mean\":366.5,\"stddev\":2.1213203435596424}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.4,
             "range": "± 0",
             "unit": "s",
@@ -51764,21 +51764,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2],\"min\":2.2,\"max\":2.2,\"median\":2.2,\"mean\":2.2,\"user\":{\"times\":[1.76],\"min\":1.76,\"max\":1.76,\"median\":1.76,\"mean\":1.76},\"system\":{\"times\":[0.44],\"min\":0.44,\"max\":0.44,\"median\":0.44,\"mean\":0.44}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.584011355999857,
             "range": "± 0.01885379458200684",
             "unit": "s",
             "extra": "{\"times\":[5.570679709999822,5.597343001999892],\"min\":5.570679709999822,\"max\":5.597343001999892,\"median\":5.584011355999857,\"mean\":5.584011355999857,\"peakRssMb\":368}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 368,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[365,368],\"min\":365,\"max\":368,\"median\":366.5,\"mean\":366.5,\"stddev\":2.1213203435596424}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.43,
             "range": "± 0.028284271247461926",
             "unit": "s",
@@ -53174,21 +53174,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2199999999999998],\"min\":2.2199999999999998,\"max\":2.2199999999999998,\"median\":2.2199999999999998,\"mean\":2.2199999999999998,\"user\":{\"times\":[1.795],\"min\":1.795,\"max\":1.795,\"median\":1.795,\"mean\":1.795},\"system\":{\"times\":[0.425],\"min\":0.425,\"max\":0.425,\"median\":0.425,\"mean\":0.425}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.561975410500076,
             "range": "± 0.004433922263794874",
             "unit": "s",
             "extra": "{\"times\":[5.565110667000059,5.558840154000093],\"min\":5.558840154000093,\"max\":5.565110667000059,\"median\":5.561975410500076,\"mean\":5.561975410500076,\"peakRssMb\":368}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 368,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[368,367],\"min\":367,\"max\":368,\"median\":367.5,\"mean\":367.5,\"stddev\":0.7071067811865476}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.3950000000000005,
             "range": "± 0.007071067811865952",
             "unit": "s",
@@ -54584,21 +54584,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.215],\"min\":2.215,\"max\":2.215,\"median\":2.215,\"mean\":2.215,\"user\":{\"times\":[1.795],\"min\":1.795,\"max\":1.795,\"median\":1.795,\"mean\":1.795},\"system\":{\"times\":[0.42],\"min\":0.42,\"max\":0.42,\"median\":0.42,\"mean\":0.42}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.578486645000055,
             "range": "± 0.0007323137240245284",
             "unit": "s",
             "extra": "{\"times\":[5.579004469000269,5.577968820999842],\"min\":5.577968820999842,\"max\":5.579004469000269,\"median\":5.578486645000055,\"mean\":5.578486645000055,\"peakRssMb\":385}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 385,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[385,372],\"min\":372,\"max\":385,\"median\":378.5,\"mean\":378.5,\"stddev\":9.192388155425117}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.455,
             "range": "± 0.07778174593051983",
             "unit": "s",
@@ -55994,21 +55994,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.225],\"min\":2.225,\"max\":2.225,\"median\":2.225,\"mean\":2.225,\"user\":{\"times\":[1.8],\"min\":1.8,\"max\":1.8,\"median\":1.8,\"mean\":1.8},\"system\":{\"times\":[0.425],\"min\":0.425,\"max\":0.425,\"median\":0.425,\"mean\":0.425}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.553170500500128,
             "range": "± 0.017667582651508258",
             "unit": "s",
             "extra": "{\"times\":[5.540677633000072,5.565663368000183],\"min\":5.540677633000072,\"max\":5.565663368000183,\"median\":5.553170500500128,\"mean\":5.553170500500128,\"peakRssMb\":381}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 381,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[381,372],\"min\":372,\"max\":381,\"median\":376.5,\"mean\":376.5,\"stddev\":6.363961030678928}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.409999999999999,
             "range": "± 0.028284271247461926",
             "unit": "s",
@@ -57404,21 +57404,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.21],\"min\":2.21,\"max\":2.21,\"median\":2.21,\"mean\":2.21,\"user\":{\"times\":[1.77],\"min\":1.77,\"max\":1.77,\"median\":1.77,\"mean\":1.77},\"system\":{\"times\":[0.44],\"min\":0.44,\"max\":0.44,\"median\":0.44,\"mean\":0.44}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.581878511500079,
             "range": "± 0.021878082506909376",
             "unit": "s",
             "extra": "{\"times\":[5.566408371000085,5.597348652000074],\"min\":5.566408371000085,\"max\":5.597348652000074,\"median\":5.581878511500079,\"mean\":5.581878511500079,\"peakRssMb\":382}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 382,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[382,376],\"min\":376,\"max\":382,\"median\":379,\"mean\":379,\"stddev\":4.242640687119285}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.475,
             "range": "± 0.1343502884254443",
             "unit": "s",
@@ -58814,21 +58814,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.21],\"min\":2.21,\"max\":2.21,\"median\":2.21,\"mean\":2.21,\"user\":{\"times\":[1.81],\"min\":1.81,\"max\":1.81,\"median\":1.81,\"mean\":1.81},\"system\":{\"times\":[0.4],\"min\":0.4,\"max\":0.4,\"median\":0.4,\"mean\":0.4}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.577893729500239,
             "range": "± 0.007027943490679989",
             "unit": "s",
             "extra": "{\"times\":[5.582863236000295,5.572924223000184],\"min\":5.572924223000184,\"max\":5.582863236000295,\"median\":5.577893729500239,\"mean\":5.577893729500239,\"peakRssMb\":377}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 377,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[377,376],\"min\":376,\"max\":377,\"median\":376.5,\"mean\":376.5,\"stddev\":0.7071067811865476}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.505,
             "range": "± 0.03535533905932725",
             "unit": "s",
@@ -60224,21 +60224,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.21],\"min\":2.21,\"max\":2.21,\"median\":2.21,\"mean\":2.21,\"user\":{\"times\":[1.8],\"min\":1.8,\"max\":1.8,\"median\":1.8,\"mean\":1.8},\"system\":{\"times\":[0.41000000000000003],\"min\":0.41000000000000003,\"max\":0.41000000000000003,\"median\":0.41000000000000003,\"mean\":0.41000000000000003}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.574890463999938,
             "range": "± 0.0361221525228147",
             "unit": "s",
             "extra": "{\"times\":[5.600432682999875,5.549348245000001],\"min\":5.549348245000001,\"max\":5.600432682999875,\"median\":5.574890463999938,\"mean\":5.574890463999938,\"peakRssMb\":384}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 384,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[384,381],\"min\":381,\"max\":384,\"median\":382.5,\"mean\":382.5,\"stddev\":2.1213203435596424}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.385,
             "range": "± 0.03535533905932725",
             "unit": "s",
@@ -61634,21 +61634,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.225],\"min\":2.225,\"max\":2.225,\"median\":2.225,\"mean\":2.225,\"user\":{\"times\":[1.79],\"min\":1.79,\"max\":1.79,\"median\":1.79,\"mean\":1.79},\"system\":{\"times\":[0.435],\"min\":0.435,\"max\":0.435,\"median\":0.435,\"mean\":0.435}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.57397523150011,
             "range": "± 0.012622801446132039",
             "unit": "s",
             "extra": "{\"times\":[5.582900900000241,5.565049562999978],\"min\":5.565049562999978,\"max\":5.582900900000241,\"median\":5.57397523150011,\"mean\":5.57397523150011,\"peakRssMb\":381}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 381,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[381,377],\"min\":377,\"max\":381,\"median\":379,\"mean\":379,\"stddev\":2.8284271247461903}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.46,
             "range": "± 0.08485281374238578",
             "unit": "s",
@@ -63044,21 +63044,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.225],\"min\":2.225,\"max\":2.225,\"median\":2.225,\"mean\":2.225,\"user\":{\"times\":[1.83],\"min\":1.83,\"max\":1.83,\"median\":1.83,\"mean\":1.83},\"system\":{\"times\":[0.395],\"min\":0.395,\"max\":0.395,\"median\":0.395,\"mean\":0.395}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.56066358199995,
             "range": "± 0.002258671593255752",
             "unit": "s",
             "extra": "{\"times\":[5.559066459999886,5.562260704000015],\"min\":5.559066459999886,\"max\":5.562260704000015,\"median\":5.56066358199995,\"mean\":5.56066358199995,\"peakRssMb\":385}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 385,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[384,385],\"min\":384,\"max\":385,\"median\":384.5,\"mean\":384.5,\"stddev\":0.7071067811865476}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.380000000000001,
             "range": "± 0",
             "unit": "s",
@@ -64454,21 +64454,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.22],\"min\":2.22,\"max\":2.22,\"median\":2.22,\"mean\":2.22,\"user\":{\"times\":[1.78],\"min\":1.78,\"max\":1.78,\"median\":1.78,\"mean\":1.78},\"system\":{\"times\":[0.44],\"min\":0.44,\"max\":0.44,\"median\":0.44,\"mean\":0.44}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.562329313000198,
             "range": "± 0.012266942180053706",
             "unit": "s",
             "extra": "{\"times\":[5.553655275000259,5.5710033510001375],\"min\":5.553655275000259,\"max\":5.5710033510001375,\"median\":5.562329313000198,\"mean\":5.562329313000198,\"peakRssMb\":384}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 384,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[384,374],\"min\":374,\"max\":384,\"median\":379,\"mean\":379,\"stddev\":7.0710678118654755}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.4,
             "range": "± 0",
             "unit": "s",
@@ -65864,21 +65864,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.225],\"min\":2.225,\"max\":2.225,\"median\":2.225,\"mean\":2.225,\"user\":{\"times\":[1.79],\"min\":1.79,\"max\":1.79,\"median\":1.79,\"mean\":1.79},\"system\":{\"times\":[0.435],\"min\":0.435,\"max\":0.435,\"median\":0.435,\"mean\":0.435}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.583643683000002,
             "range": "± 0.02996040706108494",
             "unit": "s",
             "extra": "{\"times\":[5.562458476,5.604828890000005],\"min\":5.562458476,\"max\":5.604828890000005,\"median\":5.583643683000002,\"mean\":5.583643683000002,\"peakRssMb\":389}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 389,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[389,375],\"min\":375,\"max\":389,\"median\":382,\"mean\":382,\"stddev\":9.899494936611665}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.54,
             "range": "± 0.05656854249492385",
             "unit": "s",
@@ -67274,21 +67274,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.23],\"min\":2.23,\"max\":2.23,\"median\":2.23,\"mean\":2.23,\"user\":{\"times\":[1.795],\"min\":1.795,\"max\":1.795,\"median\":1.795,\"mean\":1.795},\"system\":{\"times\":[0.435],\"min\":0.435,\"max\":0.435,\"median\":0.435,\"mean\":0.435}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.569239159999881,
             "range": "± 0.018899411454971034",
             "unit": "s",
             "extra": "{\"times\":[5.582603062000126,5.555875257999636],\"min\":5.555875257999636,\"max\":5.582603062000126,\"median\":5.569239159999881,\"mean\":5.569239159999881,\"peakRssMb\":417}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 417,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[417,375],\"min\":375,\"max\":417,\"median\":396,\"mean\":396,\"stddev\":29.698484809834994}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.465,
             "range": "± 0.0212132034355966",
             "unit": "s",
@@ -68684,21 +68684,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.21],\"min\":2.21,\"max\":2.21,\"median\":2.21,\"mean\":2.21,\"user\":{\"times\":[1.795],\"min\":1.795,\"max\":1.795,\"median\":1.795,\"mean\":1.795},\"system\":{\"times\":[0.41500000000000004],\"min\":0.41500000000000004,\"max\":0.41500000000000004,\"median\":0.41500000000000004,\"mean\":0.41500000000000004}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.573435531999916,
             "range": "± 0.010654905595917726",
             "unit": "s",
             "extra": "{\"times\":[5.56590137600014,5.5809696879996915],\"min\":5.56590137600014,\"max\":5.5809696879996915,\"median\":5.573435531999916,\"mean\":5.573435531999916,\"peakRssMb\":419}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 419,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[383,419],\"min\":383,\"max\":419,\"median\":401,\"mean\":401,\"stddev\":25.45584412271571}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.449999999999999,
             "range": "± 0.11313708498984708",
             "unit": "s",
@@ -70094,21 +70094,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.24],\"min\":2.24,\"max\":2.24,\"median\":2.24,\"mean\":2.24,\"user\":{\"times\":[1.7850000000000001],\"min\":1.7850000000000001,\"max\":1.7850000000000001,\"median\":1.7850000000000001,\"mean\":1.7850000000000001},\"system\":{\"times\":[0.45499999999999996],\"min\":0.45499999999999996,\"max\":0.45499999999999996,\"median\":0.45499999999999996,\"mean\":0.45499999999999996}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.563295924999984,
             "range": "± 0.0023817647415788987",
             "unit": "s",
             "extra": "{\"times\":[5.564980086999945,5.561611763000022],\"min\":5.561611763000022,\"max\":5.564980086999945,\"median\":5.563295924999984,\"mean\":5.563295924999984,\"peakRssMb\":412}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 412,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[412,376],\"min\":376,\"max\":412,\"median\":394,\"mean\":394,\"stddev\":25.45584412271571}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.4350000000000005,
             "range": "± 0.007071067811865952",
             "unit": "s",
@@ -71504,21 +71504,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.255],\"min\":2.255,\"max\":2.255,\"median\":2.255,\"mean\":2.255,\"user\":{\"times\":[1.815],\"min\":1.815,\"max\":1.815,\"median\":1.815,\"mean\":1.815},\"system\":{\"times\":[0.44],\"min\":0.44,\"max\":0.44,\"median\":0.44,\"mean\":0.44}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.552670925500104,
             "range": "± 0.0036727557545965794",
             "unit": "s",
             "extra": "{\"times\":[5.555267955999821,5.550073895000387],\"min\":5.550073895000387,\"max\":5.555267955999821,\"median\":5.552670925500104,\"mean\":5.552670925500104,\"peakRssMb\":389}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 389,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[389,370],\"min\":370,\"max\":389,\"median\":379.5,\"mean\":379.5,\"stddev\":13.435028842544403}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.425,
             "range": "± 0.007071067811865324",
             "unit": "s",
@@ -72914,21 +72914,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.205],\"min\":2.205,\"max\":2.205,\"median\":2.205,\"mean\":2.205,\"user\":{\"times\":[1.77],\"min\":1.77,\"max\":1.77,\"median\":1.77,\"mean\":1.77},\"system\":{\"times\":[0.435],\"min\":0.435,\"max\":0.435,\"median\":0.435,\"mean\":0.435}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.587465126499767,
             "range": "± 0.033941861595285595",
             "unit": "s",
             "extra": "{\"times\":[5.563464605999645,5.611465646999888],\"min\":5.563464605999645,\"max\":5.611465646999888,\"median\":5.587465126499767,\"mean\":5.587465126499767,\"peakRssMb\":383}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 383,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[383,369],\"min\":369,\"max\":383,\"median\":376,\"mean\":376,\"stddev\":9.899494936611665}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.45,
             "range": "± 0.09899494936611705",
             "unit": "s",
@@ -74324,21 +74324,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.21],\"min\":2.21,\"max\":2.21,\"median\":2.21,\"mean\":2.21,\"user\":{\"times\":[1.7850000000000001],\"min\":1.7850000000000001,\"max\":1.7850000000000001,\"median\":1.7850000000000001,\"mean\":1.7850000000000001},\"system\":{\"times\":[0.425],\"min\":0.425,\"max\":0.425,\"median\":0.425,\"mean\":0.425}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.561284811500228,
             "range": "± 0.0048272532392131555",
             "unit": "s",
             "extra": "{\"times\":[5.557871428000275,5.5646981950001795],\"min\":5.557871428000275,\"max\":5.5646981950001795,\"median\":5.561284811500228,\"mean\":5.561284811500228,\"peakRssMb\":383}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 383,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[383,380],\"min\":380,\"max\":383,\"median\":381.5,\"mean\":381.5,\"stddev\":2.1213203435596424}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.37,
             "range": "± 0.014142135623731277",
             "unit": "s",
@@ -75734,21 +75734,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.225],\"min\":2.225,\"max\":2.225,\"median\":2.225,\"mean\":2.225,\"user\":{\"times\":[1.795],\"min\":1.795,\"max\":1.795,\"median\":1.795,\"mean\":1.795},\"system\":{\"times\":[0.43],\"min\":0.43,\"max\":0.43,\"median\":0.43,\"mean\":0.43}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.580987289499957,
             "range": "± 0.02413009456816934",
             "unit": "s",
             "extra": "{\"times\":[5.5980498429997825,5.563924736000132],\"min\":5.563924736000132,\"max\":5.5980498429997825,\"median\":5.580987289499957,\"mean\":5.580987289499957,\"peakRssMb\":392}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 392,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[392,381],\"min\":381,\"max\":392,\"median\":386.5,\"mean\":386.5,\"stddev\":7.7781745930520225}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.48,
             "range": "± 0.14142135623730964",
             "unit": "s",
@@ -77144,21 +77144,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2199999999999998],\"min\":2.2199999999999998,\"max\":2.2199999999999998,\"median\":2.2199999999999998,\"mean\":2.2199999999999998,\"user\":{\"times\":[1.775],\"min\":1.775,\"max\":1.775,\"median\":1.775,\"mean\":1.775},\"system\":{\"times\":[0.44499999999999995],\"min\":0.44499999999999995,\"max\":0.44499999999999995,\"median\":0.44499999999999995,\"mean\":0.44499999999999995}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.564582192000001,
             "range": "± 0.003793528886179441",
             "unit": "s",
             "extra": "{\"times\":[5.561899761999957,5.567264622000046],\"min\":5.561899761999957,\"max\":5.567264622000046,\"median\":5.564582192000001,\"mean\":5.564582192000001,\"peakRssMb\":382}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 382,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[378,382],\"min\":378,\"max\":382,\"median\":380,\"mean\":380,\"stddev\":2.8284271247461903}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.359999999999999,
             "range": "± 0.028284271247461926",
             "unit": "s",
@@ -78554,21 +78554,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.23],\"min\":2.23,\"max\":2.23,\"median\":2.23,\"mean\":2.23,\"user\":{\"times\":[1.8050000000000002],\"min\":1.8050000000000002,\"max\":1.8050000000000002,\"median\":1.8050000000000002,\"mean\":1.8050000000000002},\"system\":{\"times\":[0.425],\"min\":0.425,\"max\":0.425,\"median\":0.425,\"mean\":0.425}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.558445638500154,
             "range": "± 0.002047756489354377",
             "unit": "s",
             "extra": "{\"times\":[5.559893620999995,5.556997656000313],\"min\":5.556997656000313,\"max\":5.559893620999995,\"median\":5.558445638500154,\"mean\":5.558445638500154,\"peakRssMb\":369}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 369,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[369,369],\"min\":369,\"max\":369,\"median\":369,\"mean\":369,\"stddev\":0}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.3999999999999995,
             "range": "± 0",
             "unit": "s",
@@ -79964,21 +79964,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.225],\"min\":2.225,\"max\":2.225,\"median\":2.225,\"mean\":2.225,\"user\":{\"times\":[1.815],\"min\":1.815,\"max\":1.815,\"median\":1.815,\"mean\":1.815},\"system\":{\"times\":[0.41000000000000003],\"min\":0.41000000000000003,\"max\":0.41000000000000003,\"median\":0.41000000000000003,\"mean\":0.41000000000000003}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.563059176000068,
             "range": "± 0.009837753201303213",
             "unit": "s",
             "extra": "{\"times\":[5.556102833999787,5.570015518000349],\"min\":5.556102833999787,\"max\":5.570015518000349,\"median\":5.563059176000068,\"mean\":5.563059176000068,\"peakRssMb\":371}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 371,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[371,369],\"min\":369,\"max\":371,\"median\":370,\"mean\":370,\"stddev\":1.4142135623730951}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.405,
             "range": "± 0.021213203435595972",
             "unit": "s",
@@ -81374,21 +81374,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.22],\"min\":2.22,\"max\":2.22,\"median\":2.22,\"mean\":2.22,\"user\":{\"times\":[1.8],\"min\":1.8,\"max\":1.8,\"median\":1.8,\"mean\":1.8},\"system\":{\"times\":[0.42],\"min\":0.42,\"max\":0.42,\"median\":0.42,\"mean\":0.42}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.563209468000103,
             "range": "± 0.009819053055221847",
             "unit": "s",
             "extra": "{\"times\":[5.570152587000281,5.556266348999925],\"min\":5.556266348999925,\"max\":5.570152587000281,\"median\":5.563209468000103,\"mean\":5.563209468000103,\"peakRssMb\":372}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 372,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[371,372],\"min\":371,\"max\":372,\"median\":371.5,\"mean\":371.5,\"stddev\":0.7071067811865476}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.405,
             "range": "± 0.007071067811865324",
             "unit": "s",
@@ -82952,21 +82952,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.225],\"min\":2.225,\"max\":2.225,\"median\":2.225,\"mean\":2.225,\"user\":{\"times\":[1.8050000000000002],\"min\":1.8050000000000002,\"max\":1.8050000000000002,\"median\":1.8050000000000002,\"mean\":1.8050000000000002},\"system\":{\"times\":[0.42],\"min\":0.42,\"max\":0.42,\"median\":0.42,\"mean\":0.42}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.578297571000178,
             "range": "± 0.014510084294799703",
             "unit": "s",
             "extra": "{\"times\":[5.568037391999736,5.588557750000619],\"min\":5.568037391999736,\"max\":5.588557750000619,\"median\":5.578297571000178,\"mean\":5.578297571000178,\"peakRssMb\":373}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 373,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[369,373],\"min\":369,\"max\":373,\"median\":371,\"mean\":371,\"stddev\":2.8284271247461903}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.42,
             "range": "± 0",
             "unit": "s",
@@ -84824,21 +84824,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.235],\"min\":2.235,\"max\":2.235,\"median\":2.235,\"mean\":2.235,\"user\":{\"times\":[1.82],\"min\":1.82,\"max\":1.82,\"median\":1.82,\"mean\":1.82},\"system\":{\"times\":[0.415],\"min\":0.415,\"max\":0.415,\"median\":0.415,\"mean\":0.415}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.564495647499804,
             "range": "± 0.015031464529017699",
             "unit": "s",
             "extra": "{\"times\":[5.55386679700017,5.575124497999437],\"min\":5.55386679700017,\"max\":5.575124497999437,\"median\":5.564495647499804,\"mean\":5.564495647499804,\"peakRssMb\":382}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 382,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[382,372],\"min\":372,\"max\":382,\"median\":377,\"mean\":377,\"stddev\":7.0710678118654755}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.385,
             "range": "± 0.03535533905932725",
             "unit": "s",
@@ -86696,21 +86696,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.24],\"min\":2.24,\"max\":2.24,\"median\":2.24,\"mean\":2.24,\"user\":{\"times\":[1.83],\"min\":1.83,\"max\":1.83,\"median\":1.83,\"mean\":1.83},\"system\":{\"times\":[0.41000000000000003],\"min\":0.41000000000000003,\"max\":0.41000000000000003,\"median\":0.41000000000000003,\"mean\":0.41000000000000003}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.56095191900013,
             "range": "± 0.0019404975830743644",
             "unit": "s",
             "extra": "{\"times\":[5.562324057999998,5.559579780000262],\"min\":5.559579780000262,\"max\":5.562324057999998,\"median\":5.56095191900013,\"mean\":5.56095191900013,\"peakRssMb\":371}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 371,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[370,371],\"min\":370,\"max\":371,\"median\":370.5,\"mean\":370.5,\"stddev\":0.7071067811865476}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.3950000000000005,
             "range": "± 0.007071067811865952",
             "unit": "s",
@@ -88568,21 +88568,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.215],\"min\":2.215,\"max\":2.215,\"median\":2.215,\"mean\":2.215,\"user\":{\"times\":[1.79],\"min\":1.79,\"max\":1.79,\"median\":1.79,\"mean\":1.79},\"system\":{\"times\":[0.425],\"min\":0.425,\"max\":0.425,\"median\":0.425,\"mean\":0.425}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.571960691000335,
             "range": "± 0.0028031706850448314",
             "unit": "s",
             "extra": "{\"times\":[5.569978550000116,5.5739428320005535],\"min\":5.569978550000116,\"max\":5.5739428320005535,\"median\":5.571960691000335,\"mean\":5.571960691000335,\"peakRssMb\":372}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 372,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[372,371],\"min\":371,\"max\":372,\"median\":371.5,\"mean\":371.5,\"stddev\":0.7071067811865476}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.42,
             "range": "± 0.014142135623730649",
             "unit": "s",
@@ -90440,21 +90440,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.23],\"min\":2.23,\"max\":2.23,\"median\":2.23,\"mean\":2.23,\"user\":{\"times\":[1.81],\"min\":1.81,\"max\":1.81,\"median\":1.81,\"mean\":1.81},\"system\":{\"times\":[0.42],\"min\":0.42,\"max\":0.42,\"median\":0.42,\"mean\":0.42}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.612173119999934,
             "range": "± 0.0037997132427507515",
             "unit": "s",
             "extra": "{\"times\":[5.609486316999421,5.614859923000448],\"min\":5.609486316999421,\"max\":5.614859923000448,\"median\":5.612173119999934,\"mean\":5.612173119999934,\"peakRssMb\":392}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 392,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[392,390],\"min\":390,\"max\":392,\"median\":391,\"mean\":391,\"stddev\":1.4142135623730951}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.575,
             "range": "± 0.007071067811865324",
             "unit": "s",
@@ -92312,21 +92312,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.24],\"min\":2.24,\"max\":2.24,\"median\":2.24,\"mean\":2.24,\"user\":{\"times\":[1.835],\"min\":1.835,\"max\":1.835,\"median\":1.835,\"mean\":1.835},\"system\":{\"times\":[0.405],\"min\":0.405,\"max\":0.405,\"median\":0.405,\"mean\":0.405}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.599418438500259,
             "range": "± 0.0004826519962744989",
             "unit": "s",
             "extra": "{\"times\":[5.599759724999778,5.59907715200074],\"min\":5.59907715200074,\"max\":5.599759724999778,\"median\":5.599418438500259,\"mean\":5.599418438500259,\"peakRssMb\":391}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 391,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[391,374],\"min\":374,\"max\":391,\"median\":382.5,\"mean\":382.5,\"stddev\":12.020815280171307}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.549999999999999,
             "range": "± 0",
             "unit": "s",
@@ -94184,21 +94184,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2199999999999998],\"min\":2.2199999999999998,\"max\":2.2199999999999998,\"median\":2.2199999999999998,\"mean\":2.2199999999999998,\"user\":{\"times\":[1.795],\"min\":1.795,\"max\":1.795,\"median\":1.795,\"mean\":1.795},\"system\":{\"times\":[0.425],\"min\":0.425,\"max\":0.425,\"median\":0.425,\"mean\":0.425}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.588767981499899,
             "range": "± 0.021406698255898363",
             "unit": "s",
             "extra": "{\"times\":[5.603904802999459,5.573631160000339],\"min\":5.573631160000339,\"max\":5.603904802999459,\"median\":5.588767981499899,\"mean\":5.588767981499899,\"peakRssMb\":400}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 400,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[390,400],\"min\":390,\"max\":400,\"median\":395,\"mean\":395,\"stddev\":7.0710678118654755}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.555,
             "range": "± 0.03535533905932725",
             "unit": "s",
@@ -96056,21 +96056,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.215],\"min\":2.215,\"max\":2.215,\"median\":2.215,\"mean\":2.215,\"user\":{\"times\":[1.79],\"min\":1.79,\"max\":1.79,\"median\":1.79,\"mean\":1.79},\"system\":{\"times\":[0.425],\"min\":0.425,\"max\":0.425,\"median\":0.425,\"mean\":0.425}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.604724887500051,
             "range": "± 0.006389929527556257",
             "unit": "s",
             "extra": "{\"times\":[5.609243250000291,5.6002065249998125],\"min\":5.6002065249998125,\"max\":5.609243250000291,\"median\":5.604724887500051,\"mean\":5.604724887500051,\"peakRssMb\":381}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 381,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[381,381],\"min\":381,\"max\":381,\"median\":381,\"mean\":381,\"stddev\":0}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.545,
             "range": "± 0.0070710678118646965",
             "unit": "s",
@@ -97928,21 +97928,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.225],\"min\":2.225,\"max\":2.225,\"median\":2.225,\"mean\":2.225,\"user\":{\"times\":[1.795],\"min\":1.795,\"max\":1.795,\"median\":1.795,\"mean\":1.795},\"system\":{\"times\":[0.43],\"min\":0.43,\"max\":0.43,\"median\":0.43,\"mean\":0.43}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.597430060499813,
             "range": "± 0.010284317296044822",
             "unit": "s",
             "extra": "{\"times\":[5.604702170999721,5.590157949999906],\"min\":5.590157949999906,\"max\":5.604702170999721,\"median\":5.597430060499813,\"mean\":5.597430060499813,\"peakRssMb\":390}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 390,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[390,390],\"min\":390,\"max\":390,\"median\":390,\"mean\":390,\"stddev\":0}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.585,
             "range": "± 0.007071067811865324",
             "unit": "s",
@@ -99800,21 +99800,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.21],\"min\":2.21,\"max\":2.21,\"median\":2.21,\"mean\":2.21,\"user\":{\"times\":[1.775],\"min\":1.775,\"max\":1.775,\"median\":1.775,\"mean\":1.775},\"system\":{\"times\":[0.435],\"min\":0.435,\"max\":0.435,\"median\":0.435,\"mean\":0.435}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.596289230499883,
             "range": "± 0.011426117970765376",
             "unit": "s",
             "extra": "{\"times\":[5.588209745000117,5.604368715999648],\"min\":5.588209745000117,\"max\":5.604368715999648,\"median\":5.596289230499883,\"mean\":5.596289230499883,\"peakRssMb\":391}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 391,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[391,390],\"min\":390,\"max\":391,\"median\":390.5,\"mean\":390.5,\"stddev\":0.7071067811865476}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.57,
             "range": "± 0.028284271247461926",
             "unit": "s",
@@ -101672,21 +101672,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.215],\"min\":2.215,\"max\":2.215,\"median\":2.215,\"mean\":2.215,\"user\":{\"times\":[1.77],\"min\":1.77,\"max\":1.77,\"median\":1.77,\"mean\":1.77},\"system\":{\"times\":[0.445],\"min\":0.445,\"max\":0.445,\"median\":0.445,\"mean\":0.445}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.56642032750044,
             "range": "± 0.0029754013909685886",
             "unit": "s",
             "extra": "{\"times\":[5.564316401000134,5.568524254000746],\"min\":5.564316401000134,\"max\":5.568524254000746,\"median\":5.56642032750044,\"mean\":5.56642032750044,\"peakRssMb\":402}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 402,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[399,402],\"min\":399,\"max\":402,\"median\":400.5,\"mean\":400.5,\"stddev\":2.1213203435596424}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.52,
             "range": "± 0",
             "unit": "s",
@@ -103544,21 +103544,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2350000000000003],\"min\":2.2350000000000003,\"max\":2.2350000000000003,\"median\":2.2350000000000003,\"mean\":2.2350000000000003,\"user\":{\"times\":[1.8050000000000002],\"min\":1.8050000000000002,\"max\":1.8050000000000002,\"median\":1.8050000000000002,\"mean\":1.8050000000000002},\"system\":{\"times\":[0.43],\"min\":0.43,\"max\":0.43,\"median\":0.43,\"mean\":0.43}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.6150840299995615,
             "range": "± 0.012853323206337157",
             "unit": "s",
             "extra": "{\"times\":[5.624172701999545,5.6059953579995785],\"min\":5.6059953579995785,\"max\":5.624172701999545,\"median\":5.6150840299995615,\"mean\":5.6150840299995615,\"peakRssMb\":387}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 387,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[387,383],\"min\":383,\"max\":387,\"median\":385,\"mean\":385,\"stddev\":2.8284271247461903}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.5649999999999995,
             "range": "± 0.049497474683058526",
             "unit": "s",
@@ -105416,21 +105416,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.23],\"min\":2.23,\"max\":2.23,\"median\":2.23,\"mean\":2.23,\"user\":{\"times\":[1.7850000000000001],\"min\":1.7850000000000001,\"max\":1.7850000000000001,\"median\":1.7850000000000001,\"mean\":1.7850000000000001},\"system\":{\"times\":[0.445],\"min\":0.445,\"max\":0.445,\"median\":0.445,\"mean\":0.445}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.5880880540004,
             "range": "± 0.007529667571730937",
             "unit": "s",
             "extra": "{\"times\":[5.593412333000451,5.582763775000348],\"min\":5.582763775000348,\"max\":5.593412333000451,\"median\":5.5880880540004,\"mean\":5.5880880540004,\"peakRssMb\":385}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 385,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[385,383],\"min\":383,\"max\":385,\"median\":384,\"mean\":384,\"stddev\":1.4142135623730951}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.515000000000001,
             "range": "± 0.1343502884254437",
             "unit": "s",
@@ -107288,21 +107288,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.225],\"min\":2.225,\"max\":2.225,\"median\":2.225,\"mean\":2.225,\"user\":{\"times\":[1.795],\"min\":1.795,\"max\":1.795,\"median\":1.795,\"mean\":1.795},\"system\":{\"times\":[0.43],\"min\":0.43,\"max\":0.43,\"median\":0.43,\"mean\":0.43}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.576155359999742,
             "range": "± 0.013158465237761324",
             "unit": "s",
             "extra": "{\"times\":[5.585459799999371,5.566850920000114],\"min\":5.566850920000114,\"max\":5.585459799999371,\"median\":5.576155359999742,\"mean\":5.576155359999742,\"peakRssMb\":401}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 401,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[395,401],\"min\":395,\"max\":401,\"median\":398,\"mean\":398,\"stddev\":4.242640687119285}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.494999999999999,
             "range": "± 0.021213203435595972",
             "unit": "s",
@@ -109160,21 +109160,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.235],\"min\":2.235,\"max\":2.235,\"median\":2.235,\"mean\":2.235,\"user\":{\"times\":[1.79],\"min\":1.79,\"max\":1.79,\"median\":1.79,\"mean\":1.79},\"system\":{\"times\":[0.445],\"min\":0.445,\"max\":0.445,\"median\":0.445,\"mean\":0.445}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.596585742500144,
             "range": "± 0.004312797700923481",
             "unit": "s",
             "extra": "{\"times\":[5.593536133999936,5.599635351000353],\"min\":5.593536133999936,\"max\":5.599635351000353,\"median\":5.596585742500144,\"mean\":5.596585742500144,\"peakRssMb\":396}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 396,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[396,391],\"min\":391,\"max\":396,\"median\":393.5,\"mean\":393.5,\"stddev\":3.5355339059327378}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.58,
             "range": "± 0",
             "unit": "s",
@@ -111032,21 +111032,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.26],\"min\":2.26,\"max\":2.26,\"median\":2.26,\"mean\":2.26,\"user\":{\"times\":[1.835],\"min\":1.835,\"max\":1.835,\"median\":1.835,\"mean\":1.835},\"system\":{\"times\":[0.425],\"min\":0.425,\"max\":0.425,\"median\":0.425,\"mean\":0.425}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.604575102500617,
             "range": "± 0.007641159218835505",
             "unit": "s",
             "extra": "{\"times\":[5.599171987000853,5.609978218000382],\"min\":5.599171987000853,\"max\":5.609978218000382,\"median\":5.604575102500617,\"mean\":5.604575102500617,\"peakRssMb\":420}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 420,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[385,420],\"min\":385,\"max\":420,\"median\":402.5,\"mean\":402.5,\"stddev\":24.748737341529164}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.54,
             "range": "± 0.05656854249492385",
             "unit": "s",
@@ -112904,21 +112904,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.25],\"min\":2.25,\"max\":2.25,\"median\":2.25,\"mean\":2.25,\"user\":{\"times\":[1.83],\"min\":1.83,\"max\":1.83,\"median\":1.83,\"mean\":1.83},\"system\":{\"times\":[0.42],\"min\":0.42,\"max\":0.42,\"median\":0.42,\"mean\":0.42}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.5807419529999605,
             "range": "± 0.008546620059563935",
             "unit": "s",
             "extra": "{\"times\":[5.574698579999618,5.586785326000303],\"min\":5.574698579999618,\"max\":5.586785326000303,\"median\":5.5807419529999605,\"mean\":5.5807419529999605,\"peakRssMb\":395}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 395,
             "range": "",
             "unit": "MB",
             "extra": "{\"times\":[395,380],\"min\":380,\"max\":395,\"median\":387.5,\"mean\":387.5,\"stddev\":10.606601717798213}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.48,
             "range": "± 0.014142135623731277",
             "unit": "s",
@@ -114776,21 +114776,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.223],\"min\":2.223,\"max\":2.223,\"median\":2.223,\"mean\":2.223,\"user\":{\"times\":[1.7965],\"min\":1.7965,\"max\":1.7965,\"median\":1.7965,\"mean\":1.7965},\"system\":{\"times\":[0.4265],\"min\":0.4265,\"max\":0.4265,\"median\":0.4265,\"mean\":0.4265}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.615530530449794,
             "range": "± 0.025306393569116986",
             "unit": "s",
             "extra": "{\"times\":[5.633424852949893,5.597636207949696],\"min\":5.597636207949696,\"max\":5.633424852949893,\"median\":5.615530530449794,\"mean\":5.615530530449794}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 370.5,
             "range": "± 13.435028842544403",
             "unit": "MB",
             "extra": "{\"times\":[361,380],\"min\":361,\"max\":380,\"median\":370.5,\"mean\":370.5,\"stddev\":13.435028842544403}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.6105,
             "range": "± 0.026162950903902204",
             "unit": "s",
@@ -116648,21 +116648,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2435],\"min\":2.2435,\"max\":2.2435,\"median\":2.2435,\"mean\":2.2435,\"user\":{\"times\":[1.825],\"min\":1.825,\"max\":1.825,\"median\":1.825,\"mean\":1.825},\"system\":{\"times\":[0.4185],\"min\":0.4185,\"max\":0.4185,\"median\":0.4185,\"mean\":0.4185}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.604325353150163,
             "range": "± 0.00755909240653145",
             "unit": "s",
             "extra": "{\"times\":[5.598980267649889,5.609670438650437],\"min\":5.598980267649889,\"max\":5.609670438650437,\"median\":5.604325353150163,\"mean\":5.604325353150163}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 364,
             "range": "± 5.656854249492381",
             "unit": "MB",
             "extra": "{\"times\":[360,368],\"min\":360,\"max\":368,\"median\":364,\"mean\":364,\"stddev\":5.656854249492381}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.5705,
             "range": "± 0.08980256121069201",
             "unit": "s",
@@ -118520,21 +118520,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2675],\"min\":2.2675,\"max\":2.2675,\"median\":2.2675,\"mean\":2.2675,\"user\":{\"times\":[1.8295],\"min\":1.8295,\"max\":1.8295,\"median\":1.8295,\"mean\":1.8295},\"system\":{\"times\":[0.438],\"min\":0.438,\"max\":0.438,\"median\":0.438,\"mean\":0.438}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.607554487749934,
             "range": "± 0.027287073908829985",
             "unit": "s",
             "extra": "{\"times\":[5.626849362749606,5.588259612750262],\"min\":5.588259612750262,\"max\":5.626849362749606,\"median\":5.607554487749934,\"mean\":5.607554487749934}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 390,
             "range": "± 12.727922061357855",
             "unit": "MB",
             "extra": "{\"times\":[381,399],\"min\":381,\"max\":399,\"median\":390,\"mean\":390,\"stddev\":12.727922061357855}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.5615000000000006,
             "range": "± 0.0544472221513635",
             "unit": "s",
@@ -120392,21 +120392,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.247],\"min\":2.247,\"max\":2.247,\"median\":2.247,\"mean\":2.247,\"user\":{\"times\":[1.792],\"min\":1.792,\"max\":1.792,\"median\":1.792,\"mean\":1.792},\"system\":{\"times\":[0.45499999999999996],\"min\":0.45499999999999996,\"max\":0.45499999999999996,\"median\":0.45499999999999996,\"mean\":0.45499999999999996}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.596353735849913,
             "range": "± 0.02038632125101362",
             "unit": "s",
             "extra": "{\"times\":[5.610769041849952,5.581938429849874],\"min\":5.581938429849874,\"max\":5.610769041849952,\"median\":5.596353735849913,\"mean\":5.596353735849913}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 382,
             "range": "± 25.45584412271571",
             "unit": "MB",
             "extra": "{\"times\":[364,400],\"min\":364,\"max\":400,\"median\":382,\"mean\":382,\"stddev\":25.45584412271571}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.556,
             "range": "± 0.03535533905932788",
             "unit": "s",
@@ -122264,21 +122264,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2455],\"min\":2.2455,\"max\":2.2455,\"median\":2.2455,\"mean\":2.2455,\"user\":{\"times\":[1.8085],\"min\":1.8085,\"max\":1.8085,\"median\":1.8085,\"mean\":1.8085},\"system\":{\"times\":[0.437],\"min\":0.437,\"max\":0.437,\"median\":0.437,\"mean\":0.437}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.596798030599766,
             "range": "± 0.0004581422617516364",
             "unit": "s",
             "extra": "{\"times\":[5.597121986099799,5.596474075099733],\"min\":5.596474075099733,\"max\":5.597121986099799,\"median\":5.596798030599766,\"mean\":5.596798030599766}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 370.5,
             "range": "± 17.67766952966369",
             "unit": "MB",
             "extra": "{\"times\":[358,383],\"min\":358,\"max\":383,\"median\":370.5,\"mean\":370.5,\"stddev\":17.67766952966369}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.5515,
             "range": "± 0.023334523779155694",
             "unit": "s",
@@ -124136,21 +124136,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2255],\"min\":2.2255,\"max\":2.2255,\"median\":2.2255,\"mean\":2.2255,\"user\":{\"times\":[1.806],\"min\":1.806,\"max\":1.806,\"median\":1.806,\"mean\":1.806},\"system\":{\"times\":[0.4195],\"min\":0.4195,\"max\":0.4195,\"median\":0.4195,\"mean\":0.4195}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.593322934249882,
             "range": "± 0.020177514740113922",
             "unit": "s",
             "extra": "{\"times\":[5.607590591750108,5.5790552767496555],\"min\":5.5790552767496555,\"max\":5.607590591750108,\"median\":5.593322934249882,\"mean\":5.593322934249882}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 377,
             "range": "± 18.384776310850235",
             "unit": "MB",
             "extra": "{\"times\":[364,390],\"min\":364,\"max\":390,\"median\":377,\"mean\":377,\"stddev\":18.384776310850235}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.593999999999999,
             "range": "± 0.05798275605729679",
             "unit": "s",
@@ -126008,21 +126008,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.242],\"min\":2.242,\"max\":2.242,\"median\":2.242,\"mean\":2.242,\"user\":{\"times\":[1.779],\"min\":1.779,\"max\":1.779,\"median\":1.779,\"mean\":1.779},\"system\":{\"times\":[0.46299999999999997],\"min\":0.46299999999999997,\"max\":0.46299999999999997,\"median\":0.46299999999999997,\"mean\":0.46299999999999997}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.608727342650015,
             "range": "± 0.007498704072712913",
             "unit": "s",
             "extra": "{\"times\":[5.6140297271499415,5.603424958150089],\"min\":5.603424958150089,\"max\":5.6140297271499415,\"median\":5.608727342650015,\"mean\":5.608727342650015}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 362.5,
             "range": "± 2.1213203435596424",
             "unit": "MB",
             "extra": "{\"times\":[361,364],\"min\":361,\"max\":364,\"median\":362.5,\"mean\":362.5,\"stddev\":2.1213203435596424}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.5445,
             "range": "± 0.05020458146424468",
             "unit": "s",
@@ -127880,21 +127880,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2439999999999998],\"min\":2.2439999999999998,\"max\":2.2439999999999998,\"median\":2.2439999999999998,\"mean\":2.2439999999999998,\"user\":{\"times\":[1.806],\"min\":1.806,\"max\":1.806,\"median\":1.806,\"mean\":1.806},\"system\":{\"times\":[0.438],\"min\":0.438,\"max\":0.438,\"median\":0.438,\"mean\":0.438}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.6010581160997965,
             "range": "± 0.018355338749018908",
             "unit": "s",
             "extra": "{\"times\":[5.588078931599389,5.614037300600204],\"min\":5.588078931599389,\"max\":5.614037300600204,\"median\":5.6010581160997965,\"mean\":5.6010581160997965}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 396,
             "range": "± 4.242640687119285",
             "unit": "MB",
             "extra": "{\"times\":[399,393],\"min\":393,\"max\":399,\"median\":396,\"mean\":396,\"stddev\":4.242640687119285}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.5655,
             "range": "± 0.04313351365237936",
             "unit": "s",
@@ -129752,21 +129752,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2435],\"min\":2.2435,\"max\":2.2435,\"median\":2.2435,\"mean\":2.2435,\"user\":{\"times\":[1.8],\"min\":1.8,\"max\":1.8,\"median\":1.8,\"mean\":1.8},\"system\":{\"times\":[0.4435],\"min\":0.4435,\"max\":0.4435,\"median\":0.4435,\"mean\":0.4435}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.622763216799777,
             "range": "± 0.006309024490496689",
             "unit": "s",
             "extra": "{\"times\":[5.618302062799875,5.62722437079968],\"min\":5.618302062799875,\"max\":5.62722437079968,\"median\":5.622763216799777,\"mean\":5.622763216799777}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 378,
             "range": "± 14.142135623730951",
             "unit": "MB",
             "extra": "{\"times\":[368,388],\"min\":368,\"max\":388,\"median\":378,\"mean\":378,\"stddev\":14.142135623730951}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.6225000000000005,
             "range": "± 0.04171930009000642",
             "unit": "s",
@@ -131624,21 +131624,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.23],\"min\":2.23,\"max\":2.23,\"median\":2.23,\"mean\":2.23,\"user\":{\"times\":[1.7675],\"min\":1.7675,\"max\":1.7675,\"median\":1.7675,\"mean\":1.7675},\"system\":{\"times\":[0.4625],\"min\":0.4625,\"max\":0.4625,\"median\":0.4625,\"mean\":0.4625}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.607868785249675,
             "range": "± 0.0013861654649158877",
             "unit": "s",
             "extra": "{\"times\":[5.606888618249586,5.6088489522497635],\"min\":5.606888618249586,\"max\":5.6088489522497635,\"median\":5.607868785249675,\"mean\":5.607868785249675}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 402,
             "range": "± 29.698484809834994",
             "unit": "MB",
             "extra": "{\"times\":[423,381],\"min\":381,\"max\":423,\"median\":402,\"mean\":402,\"stddev\":29.698484809834994}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.596,
             "range": "± 0.012727922061358338",
             "unit": "s",
@@ -133496,21 +133496,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2695],\"min\":2.2695,\"max\":2.2695,\"median\":2.2695,\"mean\":2.2695,\"user\":{\"times\":[1.8345],\"min\":1.8345,\"max\":1.8345,\"median\":1.8345,\"mean\":1.8345},\"system\":{\"times\":[0.435],\"min\":0.435,\"max\":0.435,\"median\":0.435,\"mean\":0.435}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.60591403879989,
             "range": "± 0.0008882951155333253",
             "unit": "s",
             "extra": "{\"times\":[5.605285919300001,5.606542158299778],\"min\":5.605285919300001,\"max\":5.606542158299778,\"median\":5.60591403879989,\"mean\":5.60591403879989}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 405.5,
             "range": "± 16.263455967290593",
             "unit": "MB",
             "extra": "{\"times\":[417,394],\"min\":394,\"max\":417,\"median\":405.5,\"mean\":405.5,\"stddev\":16.263455967290593}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.604,
             "range": "± 0.019798989873223663",
             "unit": "s",
@@ -135368,21 +135368,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2578500000000004],\"min\":2.2578500000000004,\"max\":2.2578500000000004,\"median\":2.2578500000000004,\"mean\":2.2578500000000004,\"user\":{\"times\":[1.81985],\"min\":1.81985,\"max\":1.81985,\"median\":1.81985,\"mean\":1.81985},\"system\":{\"times\":[0.438],\"min\":0.438,\"max\":0.438,\"median\":0.438,\"mean\":0.438}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.599403807350062,
             "range": "± 0.010779154863575837",
             "unit": "s",
             "extra": "{\"times\":[5.6070258208495565,5.591781793850568],\"min\":5.591781793850568,\"max\":5.6070258208495565,\"median\":5.599403807350062,\"mean\":5.599403807350062}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 384.5,
             "range": "± 7.7781745930520225",
             "unit": "MB",
             "extra": "{\"times\":[379,390],\"min\":379,\"max\":390,\"median\":384.5,\"mean\":384.5,\"stddev\":7.7781745930520225}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.55635,
             "range": "± 0.04171930009000579",
             "unit": "s",
@@ -137240,21 +137240,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.24335],\"min\":2.24335,\"max\":2.24335,\"median\":2.24335,\"mean\":2.24335,\"user\":{\"times\":[1.78805],\"min\":1.78805,\"max\":1.78805,\"median\":1.78805,\"mean\":1.78805},\"system\":{\"times\":[0.45530000000000004],\"min\":0.45530000000000004,\"max\":0.45530000000000004,\"median\":0.45530000000000004,\"mean\":0.45530000000000004}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.610334654300194,
             "range": "± 0.0074067434214048775",
             "unit": "s",
             "extra": "{\"times\":[5.60509729580041,5.615572012799978],\"min\":5.60509729580041,\"max\":5.615572012799978,\"median\":5.610334654300194,\"mean\":5.610334654300194}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 385,
             "range": "± 8.48528137423857",
             "unit": "MB",
             "extra": "{\"times\":[391,379],\"min\":379,\"max\":391,\"median\":385,\"mean\":385,\"stddev\":8.48528137423857}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.59585,
             "range": "± 0.005656854249492385",
             "unit": "s",
@@ -139112,21 +139112,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2334],\"min\":2.2334,\"max\":2.2334,\"median\":2.2334,\"mean\":2.2334,\"user\":{\"times\":[1.791],\"min\":1.791,\"max\":1.791,\"median\":1.791,\"mean\":1.791},\"system\":{\"times\":[0.4424],\"min\":0.4424,\"max\":0.4424,\"median\":0.4424,\"mean\":0.4424}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.596419472449506,
             "range": "± 0.014303165051287684",
             "unit": "s",
             "extra": "{\"times\":[5.606533337449702,5.58630560744931],\"min\":5.58630560744931,\"max\":5.606533337449702,\"median\":5.596419472449506,\"mean\":5.596419472449506}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 400.5,
             "range": "± 24.748737341529164",
             "unit": "MB",
             "extra": "{\"times\":[383,418],\"min\":383,\"max\":418,\"median\":400.5,\"mean\":400.5,\"stddev\":24.748737341529164}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.5709,
             "range": "± 0.025455844122716047",
             "unit": "s",
@@ -140984,21 +140984,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2593],\"min\":2.2593,\"max\":2.2593,\"median\":2.2593,\"mean\":2.2593,\"user\":{\"times\":[1.8211],\"min\":1.8211,\"max\":1.8211,\"median\":1.8211,\"mean\":1.8211},\"system\":{\"times\":[0.4382],\"min\":0.4382,\"max\":0.4382,\"median\":0.4382,\"mean\":0.4382}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.599708493499551,
             "range": "± 0.018273064046067378",
             "unit": "s",
             "extra": "{\"times\":[5.6126295009995815,5.586787485999521],\"min\":5.586787485999521,\"max\":5.6126295009995815,\"median\":5.599708493499551,\"mean\":5.599708493499551}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 377.5,
             "range": "± 0.7071067811865476",
             "unit": "MB",
             "extra": "{\"times\":[378,377],\"min\":377,\"max\":378,\"median\":377.5,\"mean\":377.5,\"stddev\":0.7071067811865476}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.6043,
             "range": "± 0.028991378028648082",
             "unit": "s",
@@ -142856,21 +142856,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2452500000000004],\"min\":2.2452500000000004,\"max\":2.2452500000000004,\"median\":2.2452500000000004,\"mean\":2.2452500000000004,\"user\":{\"times\":[1.7963],\"min\":1.7963,\"max\":1.7963,\"median\":1.7963,\"mean\":1.7963},\"system\":{\"times\":[0.44895],\"min\":0.44895,\"max\":0.44895,\"median\":0.44895,\"mean\":0.44895}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.592789104300552,
             "range": "± 0.016376911957173623",
             "unit": "s",
             "extra": "{\"times\":[5.604369329800364,5.581208878800739],\"min\":5.581208878800739,\"max\":5.604369329800364,\"median\":5.592789104300552,\"mean\":5.592789104300552}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 381,
             "range": "± 0",
             "unit": "MB",
             "extra": "{\"times\":[381,381],\"min\":381,\"max\":381,\"median\":381,\"mean\":381,\"stddev\":0}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.55275,
             "range": "± 0.10040916292848999",
             "unit": "s",
@@ -144728,21 +144728,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2403],\"min\":2.2403,\"max\":2.2403,\"median\":2.2403,\"mean\":2.2403,\"user\":{\"times\":[1.8034],\"min\":1.8034,\"max\":1.8034,\"median\":1.8034,\"mean\":1.8034},\"system\":{\"times\":[0.4369],\"min\":0.4369,\"max\":0.4369,\"median\":0.4369,\"mean\":0.4369}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.58892649905053,
             "range": "± 0.00949958150425968",
             "unit": "s",
             "extra": "{\"times\":[5.582209280550433,5.595643717550626],\"min\":5.582209280550433,\"max\":5.595643717550626,\"median\":5.58892649905053,\"mean\":5.58892649905053}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 409.5,
             "range": "± 16.263455967290593",
             "unit": "MB",
             "extra": "{\"times\":[398,421],\"min\":398,\"max\":421,\"median\":409.5,\"mean\":409.5,\"stddev\":16.263455967290593}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.5458,
             "range": "± 0.06788225099390863",
             "unit": "s",
@@ -146600,21 +146600,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.25085],\"min\":2.25085,\"max\":2.25085,\"median\":2.25085,\"mean\":2.25085,\"user\":{\"times\":[1.8044499999999999],\"min\":1.8044499999999999,\"max\":1.8044499999999999,\"median\":1.8044499999999999,\"mean\":1.8044499999999999},\"system\":{\"times\":[0.4464],\"min\":0.4464,\"max\":0.4464,\"median\":0.4464,\"mean\":0.4464}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.568727570949775,
             "range": "± 0.0026018962749800086",
             "unit": "s",
             "extra": "{\"times\":[5.566887752449793,5.570567389449757],\"min\":5.566887752449793,\"max\":5.570567389449757,\"median\":5.568727570949775,\"mean\":5.568727570949775}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 408.5,
             "range": "± 17.67766952966369",
             "unit": "MB",
             "extra": "{\"times\":[396,421],\"min\":396,\"max\":421,\"median\":408.5,\"mean\":408.5,\"stddev\":17.67766952966369}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.495850000000001,
             "range": "± 0.02404163056034248",
             "unit": "s",
@@ -148472,21 +148472,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2333],\"min\":2.2333,\"max\":2.2333,\"median\":2.2333,\"mean\":2.2333,\"user\":{\"times\":[1.8099],\"min\":1.8099,\"max\":1.8099,\"median\":1.8099,\"mean\":1.8099},\"system\":{\"times\":[0.4234],\"min\":0.4234,\"max\":0.4234,\"median\":0.4234,\"mean\":0.4234}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.568647103300178,
             "range": "± 0.004071993900592593",
             "unit": "s",
             "extra": "{\"times\":[5.571526437800237,5.565767768800119],\"min\":5.565767768800119,\"max\":5.571526437800237,\"median\":5.568647103300178,\"mean\":5.568647103300178}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 400.5,
             "range": "± 0.7071067811865476",
             "unit": "MB",
             "extra": "{\"times\":[400,401],\"min\":400,\"max\":401,\"median\":400.5,\"mean\":400.5,\"stddev\":0.7071067811865476}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.5068,
             "range": "± 0.02404163056034248",
             "unit": "s",
@@ -150344,21 +150344,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2343],\"min\":2.2343,\"max\":2.2343,\"median\":2.2343,\"mean\":2.2343,\"user\":{\"times\":[1.8084],\"min\":1.8084,\"max\":1.8084,\"median\":1.8084,\"mean\":1.8084},\"system\":{\"times\":[0.4259],\"min\":0.4259,\"max\":0.4259,\"median\":0.4259,\"mean\":0.4259}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.578942514599906,
             "range": "± 0.0007494999543194056",
             "unit": "s",
             "extra": "{\"times\":[5.579472491100105,5.578412538099708],\"min\":5.578412538099708,\"max\":5.579472491100105,\"median\":5.578942514599906,\"mean\":5.578942514599906}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 395.5,
             "range": "± 6.363961030678928",
             "unit": "MB",
             "extra": "{\"times\":[400,391],\"min\":391,\"max\":400,\"median\":395.5,\"mean\":395.5,\"stddev\":6.363961030678928}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.524299999999999,
             "range": "± 0.02050609665440982",
             "unit": "s",
@@ -152216,21 +152216,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.23265],\"min\":2.23265,\"max\":2.23265,\"median\":2.23265,\"mean\":2.23265,\"user\":{\"times\":[1.79985],\"min\":1.79985,\"max\":1.79985,\"median\":1.79985,\"mean\":1.79985},\"system\":{\"times\":[0.4328],\"min\":0.4328,\"max\":0.4328,\"median\":0.4328,\"mean\":0.4328}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.591270999300294,
             "range": "± 0.0008882901659123109",
             "unit": "s",
             "extra": "{\"times\":[5.590642883300316,5.591899115300272],\"min\":5.590642883300316,\"max\":5.591899115300272,\"median\":5.591270999300294,\"mean\":5.591270999300294}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 391,
             "range": "± 0",
             "unit": "MB",
             "extra": "{\"times\":[391,391],\"min\":391,\"max\":391,\"median\":391,\"mean\":391,\"stddev\":0}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.5756499999999996,
             "range": "± 0.03818376618407313",
             "unit": "s",
@@ -154088,21 +154088,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.2348,2.2208],\"min\":2.2208,\"max\":2.2348,\"median\":2.2278000000000002,\"mean\":2.2278000000000002,\"user\":{\"times\":[1.7783499999999999,1.81135],\"min\":1.7783499999999999,\"max\":1.81135,\"median\":1.7948499999999998,\"mean\":1.7948499999999998},\"system\":{\"times\":[0.45645,0.40945],\"min\":0.40945,\"max\":0.45645,\"median\":0.43295,\"mean\":0.43295}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.590837829600181,
             "range": "± 0.021819673365388866",
             "unit": "s",
             "extra": "{\"times\":[5.6062666686001235,5.5754089906002395],\"min\":5.5754089906002395,\"max\":5.6062666686001235,\"median\":5.590837829600181,\"mean\":5.590837829600181}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 389,
             "range": "± 9.899494936611665",
             "unit": "MB",
             "extra": "{\"times\":[396,382],\"min\":382,\"max\":396,\"median\":389,\"mean\":389,\"stddev\":9.899494936611665}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.5173000000000005,
             "range": "± 0.003535533905932662",
             "unit": "s",
@@ -155960,21 +155960,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.14285,2.14385],\"min\":2.14285,\"max\":2.14385,\"median\":2.14335,\"mean\":2.14335,\"user\":{\"times\":[1.70525,1.74725],\"min\":1.70525,\"max\":1.74725,\"median\":1.7262499999999998,\"mean\":1.7262499999999998},\"system\":{\"times\":[0.4376,0.3966],\"min\":0.3966,\"max\":0.4376,\"median\":0.4171,\"mean\":0.4171}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.322373473449843,
             "range": "± 0.01874373694717813",
             "unit": "s",
             "extra": "{\"times\":[5.309119649949716,5.335627296949969],\"min\":5.309119649949716,\"max\":5.335627296949969,\"median\":5.322373473449843,\"mean\":5.322373473449843}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 416,
             "range": "± 4.242640687119285",
             "unit": "MB",
             "extra": "{\"times\":[419,413],\"min\":413,\"max\":419,\"median\":416,\"mean\":416,\"stddev\":4.242640687119285}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.13285,
             "range": "± 0.01131370849898477",
             "unit": "s",
@@ -157832,21 +157832,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.13965,2.17765],\"min\":2.13965,\"max\":2.17765,\"median\":2.1586499999999997,\"mean\":2.1586499999999997,\"user\":{\"times\":[1.7683499999999999,1.73835],\"min\":1.73835,\"max\":1.7683499999999999,\"median\":1.75335,\"mean\":1.75335},\"system\":{\"times\":[0.3713,0.4393],\"min\":0.3713,\"max\":0.4393,\"median\":0.4053,\"mean\":0.4053}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.3203071256498795,
             "range": "± 0.006804256623653046",
             "unit": "s",
             "extra": "{\"times\":[5.315495789650361,5.3251184616493985],\"min\":5.315495789650361,\"max\":5.3251184616493985,\"median\":5.3203071256498795,\"mean\":5.3203071256498795}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 414,
             "range": "± 0",
             "unit": "MB",
             "extra": "{\"times\":[414,414],\"min\":414,\"max\":414,\"median\":414,\"mean\":414,\"stddev\":0}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.1206499999999995,
             "range": "± 0.007071067811865324",
             "unit": "s",
@@ -159704,21 +159704,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1278,2.1358],\"min\":2.1278,\"max\":2.1358,\"median\":2.1318,\"mean\":2.1318,\"user\":{\"times\":[1.7325000000000002,1.7265000000000001],\"min\":1.7265000000000001,\"max\":1.7325000000000002,\"median\":1.7295000000000003,\"mean\":1.7295000000000003},\"system\":{\"times\":[0.39530000000000004,0.4093],\"min\":0.39530000000000004,\"max\":0.4093,\"median\":0.4023,\"mean\":0.4023}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.308954956450545,
             "range": "± 0.012398540408635765",
             "unit": "s",
             "extra": "{\"times\":[5.300187864450784,5.317722048450308],\"min\":5.300187864450784,\"max\":5.317722048450308,\"median\":5.308954956450545,\"mean\":5.308954956450545}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 411.5,
             "range": "± 3.5355339059327378",
             "unit": "MB",
             "extra": "{\"times\":[414,409],\"min\":409,\"max\":414,\"median\":411.5,\"mean\":411.5,\"stddev\":3.5355339059327378}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.097799999999999,
             "range": "± 0.043840620433566145",
             "unit": "s",
@@ -161576,21 +161576,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1427500000000004,2.13575],\"min\":2.13575,\"max\":2.1427500000000004,\"median\":2.13925,\"mean\":2.13925,\"user\":{\"times\":[1.7386000000000001,1.7256],\"min\":1.7256,\"max\":1.7386000000000001,\"median\":1.7321,\"mean\":1.7321},\"system\":{\"times\":[0.40415,0.41014999999999996],\"min\":0.40415,\"max\":0.41014999999999996,\"median\":0.40715,\"mean\":0.40715}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.333536547749769,
             "range": "± 0.0047732451305536145",
             "unit": "s",
             "extra": "{\"times\":[5.336911741749849,5.330161353749689],\"min\":5.330161353749689,\"max\":5.336911741749849,\"median\":5.333536547749769,\"mean\":5.333536547749769}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 392,
             "range": "± 33.94112549695428",
             "unit": "MB",
             "extra": "{\"times\":[368,416],\"min\":368,\"max\":416,\"median\":392,\"mean\":392,\"stddev\":33.94112549695428}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.14325,
             "range": "± 0.014849242404917433",
             "unit": "s",
@@ -163448,21 +163448,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1367,2.1557],\"min\":2.1367,\"max\":2.1557,\"median\":2.1462,\"mean\":2.1462,\"user\":{\"times\":[1.75535,1.74235],\"min\":1.74235,\"max\":1.75535,\"median\":1.74885,\"mean\":1.74885},\"system\":{\"times\":[0.38135,0.41335],\"min\":0.38135,\"max\":0.41335,\"median\":0.39735,\"mean\":0.39735}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.338008216700469,
             "range": "± 0.025422443226008354",
             "unit": "s",
             "extra": "{\"times\":[5.320031834701029,5.35598459869991],\"min\":5.320031834701029,\"max\":5.35598459869991,\"median\":5.338008216700469,\"mean\":5.338008216700469}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 410.5,
             "range": "± 2.1213203435596424",
             "unit": "MB",
             "extra": "{\"times\":[412,409],\"min\":409,\"max\":412,\"median\":410.5,\"mean\":410.5,\"stddev\":2.1213203435596424}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.1342,
             "range": "± 0.006363961030679169",
             "unit": "s",
@@ -165320,21 +165320,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.13165,2.14065],\"min\":2.13165,\"max\":2.14065,\"median\":2.1361499999999998,\"mean\":2.1361499999999998,\"user\":{\"times\":[1.72225,1.70125],\"min\":1.70125,\"max\":1.72225,\"median\":1.7117499999999999,\"mean\":1.7117499999999999},\"system\":{\"times\":[0.4094,0.4394],\"min\":0.4094,\"max\":0.4394,\"median\":0.4244,\"mean\":0.4244}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.315606709299935,
             "range": "± 0.00038467457480187146",
             "unit": "s",
             "extra": "{\"times\":[5.315878715300327,5.315334703299542],\"min\":5.315334703299542,\"max\":5.315878715300327,\"median\":5.315606709299935,\"mean\":5.315606709299935}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 394.5,
             "range": "± 30.405591591021544",
             "unit": "MB",
             "extra": "{\"times\":[373,416],\"min\":373,\"max\":416,\"median\":394.5,\"mean\":394.5,\"stddev\":30.405591591021544}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.12615,
             "range": "± 0.027577164466275145",
             "unit": "s",
@@ -167192,21 +167192,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.13485,2.13385],\"min\":2.13385,\"max\":2.13485,\"median\":2.13435,\"mean\":2.13435,\"user\":{\"times\":[1.72525,1.72425],\"min\":1.72425,\"max\":1.72525,\"median\":1.72475,\"mean\":1.72475},\"system\":{\"times\":[0.40959999999999996,0.40959999999999996],\"min\":0.40959999999999996,\"max\":0.40959999999999996,\"median\":0.40959999999999996,\"mean\":0.40959999999999996}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.31863422155003,
             "range": "± 0.008275769170995796",
             "unit": "s",
             "extra": "{\"times\":[5.3127823690496845,5.324486074050376],\"min\":5.3127823690496845,\"max\":5.324486074050376,\"median\":5.31863422155003,\"mean\":5.31863422155003}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 416.5,
             "range": "± 4.949747468305833",
             "unit": "MB",
             "extra": "{\"times\":[413,420],\"min\":413,\"max\":420,\"median\":416.5,\"mean\":416.5,\"stddev\":4.949747468305833}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.1023499999999995,
             "range": "± 0.027577164466275773",
             "unit": "s",
@@ -169064,21 +169064,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.14765,2.1546499999999997],\"min\":2.14765,\"max\":2.1546499999999997,\"median\":2.15115,\"mean\":2.15115,\"user\":{\"times\":[1.74045,1.73545],\"min\":1.73545,\"max\":1.74045,\"median\":1.73795,\"mean\":1.73795},\"system\":{\"times\":[0.40719999999999995,0.41919999999999996],\"min\":0.40719999999999995,\"max\":0.41919999999999996,\"median\":0.41319999999999996,\"mean\":0.41319999999999996}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.332167758950591,
             "range": "± 0.0009949558098609316",
             "unit": "s",
             "extra": "{\"times\":[5.3328712989507245,5.331464218950457],\"min\":5.331464218950457,\"max\":5.3328712989507245,\"median\":5.332167758950591,\"mean\":5.332167758950591}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 413.5,
             "range": "± 0.7071067811865476",
             "unit": "MB",
             "extra": "{\"times\":[413,414],\"min\":413,\"max\":414,\"median\":413.5,\"mean\":413.5,\"stddev\":0.7071067811865476}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.13565,
             "range": "± 0.004242640687118818",
             "unit": "s",
@@ -170936,21 +170936,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1338,2.1348000000000003],\"min\":2.1338,\"max\":2.1348000000000003,\"median\":2.1343,\"mean\":2.1343,\"user\":{\"times\":[1.7206000000000001,1.7206000000000001],\"min\":1.7206000000000001,\"max\":1.7206000000000001,\"median\":1.7206000000000001,\"mean\":1.7206000000000001},\"system\":{\"times\":[0.41319999999999996,0.41419999999999996],\"min\":0.41319999999999996,\"max\":0.41419999999999996,\"median\":0.41369999999999996,\"mean\":0.41369999999999996}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.334639889050274,
             "range": "± 0.029249846771082253",
             "unit": "s",
             "extra": "{\"times\":[5.313957124049775,5.355322654050775],\"min\":5.313957124049775,\"max\":5.355322654050775,\"median\":5.334639889050274,\"mean\":5.334639889050274}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 412.5,
             "range": "± 2.1213203435596424",
             "unit": "MB",
             "extra": "{\"times\":[411,414],\"min\":411,\"max\":414,\"median\":412.5,\"mean\":412.5,\"stddev\":2.1213203435596424}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.0992999999999995,
             "range": "± 0.01909188309203688",
             "unit": "s",
@@ -172808,21 +172808,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1538500000000003,2.15885],\"min\":2.1538500000000003,\"max\":2.15885,\"median\":2.15635,\"mean\":2.15635,\"user\":{\"times\":[1.7385000000000002,1.7445000000000002],\"min\":1.7385000000000002,\"max\":1.7445000000000002,\"median\":1.7415000000000003,\"mean\":1.7415000000000003},\"system\":{\"times\":[0.41535,0.41435],\"min\":0.41435,\"max\":0.41535,\"median\":0.41485,\"mean\":0.41485}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.342825423850025,
             "range": "± 0.013494145090303037",
             "unit": "s",
             "extra": "{\"times\":[5.333283622350357,5.352367225349694],\"min\":5.333283622350357,\"max\":5.352367225349694,\"median\":5.342825423850025,\"mean\":5.342825423850025}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 412.5,
             "range": "± 0.7071067811865476",
             "unit": "MB",
             "extra": "{\"times\":[412,413],\"min\":412,\"max\":413,\"median\":412.5,\"mean\":412.5,\"stddev\":0.7071067811865476}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.1438500000000005,
             "range": "± 0.019798989873223035",
             "unit": "s",
@@ -174680,21 +174680,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1517,2.1437],\"min\":2.1437,\"max\":2.1517,\"median\":2.1477,\"mean\":2.1477,\"user\":{\"times\":[1.74455,1.71755],\"min\":1.71755,\"max\":1.74455,\"median\":1.73105,\"mean\":1.73105},\"system\":{\"times\":[0.40714999999999996,0.42615],\"min\":0.40714999999999996,\"max\":0.42615,\"median\":0.41664999999999996,\"mean\":0.41664999999999996}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.358832811999973,
             "range": "± 0.02247555379610162",
             "unit": "s",
             "extra": "{\"times\":[5.342940195499827,5.37472542850012],\"min\":5.342940195499827,\"max\":5.37472542850012,\"median\":5.358832811999973,\"mean\":5.358832811999973}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 394.5,
             "range": "± 19.091883092036785",
             "unit": "MB",
             "extra": "{\"times\":[408,381],\"min\":381,\"max\":408,\"median\":394.5,\"mean\":394.5,\"stddev\":19.091883092036785}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.1627,
             "range": "± 0.019798989873223663",
             "unit": "s",
@@ -176552,21 +176552,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.17775,2.15675],\"min\":2.15675,\"max\":2.17775,\"median\":2.16725,\"mean\":2.16725,\"user\":{\"times\":[1.7434,1.7464000000000002],\"min\":1.7434,\"max\":1.7464000000000002,\"median\":1.7449000000000001,\"mean\":1.7449000000000001},\"system\":{\"times\":[0.43435,0.41035],\"min\":0.41035,\"max\":0.43435,\"median\":0.42235,\"mean\":0.42235}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.369389547299827,
             "range": "± 0.0034585646252218976",
             "unit": "s",
             "extra": "{\"times\":[5.3669439728001604,5.371835121799493],\"min\":5.3669439728001604,\"max\":5.371835121799493,\"median\":5.369389547299827,\"mean\":5.369389547299827}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 413.5,
             "range": "± 0.7071067811865476",
             "unit": "MB",
             "extra": "{\"times\":[414,413],\"min\":413,\"max\":414,\"median\":413.5,\"mean\":413.5,\"stddev\":0.7071067811865476}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.16725,
             "range": "± 0.02050609665440982",
             "unit": "s",
@@ -178424,21 +178424,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1409000000000002,2.1639],\"min\":2.1409000000000002,\"max\":2.1639,\"median\":2.1524,\"mean\":2.1524,\"user\":{\"times\":[1.7326000000000001,1.7596],\"min\":1.7326000000000001,\"max\":1.7596,\"median\":1.7461000000000002,\"mean\":1.7461000000000002},\"system\":{\"times\":[0.4083,0.40430000000000005],\"min\":0.40430000000000005,\"max\":0.4083,\"median\":0.4063,\"mean\":0.4063}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.349463470299728,
             "range": "± 0.001256926144737226",
             "unit": "s",
             "extra": "{\"times\":[5.350352251300123,5.348574689299334],\"min\":5.348574689299334,\"max\":5.350352251300123,\"median\":5.349463470299728,\"mean\":5.349463470299728}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 411.5,
             "range": "± 2.1213203435596424",
             "unit": "MB",
             "extra": "{\"times\":[410,413],\"min\":410,\"max\":413,\"median\":411.5,\"mean\":411.5,\"stddev\":2.1213203435596424}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.1404,
             "range": "± 0.0007071067811867838",
             "unit": "s",
@@ -180296,21 +180296,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.16275,2.14975],\"min\":2.14975,\"max\":2.16275,\"median\":2.15625,\"mean\":2.15625,\"user\":{\"times\":[1.7275,1.7205000000000001],\"min\":1.7205000000000001,\"max\":1.7275,\"median\":1.7240000000000002,\"mean\":1.7240000000000002},\"system\":{\"times\":[0.43525,0.42925],\"min\":0.42925,\"max\":0.43525,\"median\":0.43225,\"mean\":0.43225}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.366121089499769,
             "range": "± 0.009462854377609246",
             "unit": "s",
             "extra": "{\"times\":[5.372812337999558,5.359429840999981],\"min\":5.359429840999981,\"max\":5.372812337999558,\"median\":5.366121089499769,\"mean\":5.366121089499769}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 414,
             "range": "± 2.8284271247461903",
             "unit": "MB",
             "extra": "{\"times\":[412,416],\"min\":412,\"max\":416,\"median\":414,\"mean\":414,\"stddev\":2.8284271247461903}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.17225,
             "range": "± 0.004949747468305602",
             "unit": "s",
@@ -182168,21 +182168,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1626,2.1666],\"min\":2.1626,\"max\":2.1666,\"median\":2.1646,\"mean\":2.1646,\"user\":{\"times\":[1.73345,1.7824499999999999],\"min\":1.73345,\"max\":1.7824499999999999,\"median\":1.75795,\"mean\":1.75795},\"system\":{\"times\":[0.42915,0.38415],\"min\":0.38415,\"max\":0.42915,\"median\":0.40664999999999996,\"mean\":0.40664999999999996}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.342776303599542,
             "range": "± 0.008592452599268899",
             "unit": "s",
             "extra": "{\"times\":[5.348852085099509,5.336700522099575],\"min\":5.336700522099575,\"max\":5.348852085099509,\"median\":5.342776303599542,\"mean\":5.342776303599542}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 391,
             "range": "± 32.526911934581186",
             "unit": "MB",
             "extra": "{\"times\":[368,414],\"min\":368,\"max\":414,\"median\":391,\"mean\":391,\"stddev\":32.526911934581186}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.141100000000001,
             "range": "± 0.04313351365237936",
             "unit": "s",
@@ -184040,21 +184040,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.15085,2.1668499999999997],\"min\":2.15085,\"max\":2.1668499999999997,\"median\":2.15885,\"mean\":2.15885,\"user\":{\"times\":[1.73055,1.7685499999999998],\"min\":1.73055,\"max\":1.7685499999999998,\"median\":1.74955,\"mean\":1.74955},\"system\":{\"times\":[0.4203,0.39830000000000004],\"min\":0.39830000000000004,\"max\":0.4203,\"median\":0.4093,\"mean\":0.4093}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.342370107049495,
             "range": "± 0.006247931171611793",
             "unit": "s",
             "extra": "{\"times\":[5.337952152549661,5.346788061549328],\"min\":5.337952152549661,\"max\":5.346788061549328,\"median\":5.342370107049495,\"mean\":5.342370107049495}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 398.5,
             "range": "± 30.405591591021544",
             "unit": "MB",
             "extra": "{\"times\":[377,420],\"min\":377,\"max\":420,\"median\":398.5,\"mean\":398.5,\"stddev\":30.405591591021544}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.14635,
             "range": "± 0.02050609665440982",
             "unit": "s",
@@ -185912,21 +185912,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.13585,2.13685],\"min\":2.13585,\"max\":2.13685,\"median\":2.13635,\"mean\":2.13635,\"user\":{\"times\":[1.72045,1.73345],\"min\":1.72045,\"max\":1.73345,\"median\":1.72695,\"mean\":1.72695},\"system\":{\"times\":[0.4154,0.40340000000000004],\"min\":0.40340000000000004,\"max\":0.4154,\"median\":0.4094,\"mean\":0.4094}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.328322547249822,
             "range": "± 0.019543824733801972",
             "unit": "s",
             "extra": "{\"times\":[5.314502976250229,5.342142118249415],\"min\":5.314502976250229,\"max\":5.342142118249415,\"median\":5.328322547249822,\"mean\":5.328322547249822}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 417,
             "range": "± 1.4142135623730951",
             "unit": "MB",
             "extra": "{\"times\":[416,418],\"min\":416,\"max\":418,\"median\":417,\"mean\":417,\"stddev\":1.4142135623730951}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.12435,
             "range": "± 0.02474873734152989",
             "unit": "s",
@@ -187784,21 +187784,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.13475,2.13875],\"min\":2.13475,\"max\":2.13875,\"median\":2.13675,\"mean\":2.13675,\"user\":{\"times\":[1.73285,1.73585],\"min\":1.73285,\"max\":1.73585,\"median\":1.73435,\"mean\":1.73435},\"system\":{\"times\":[0.40190000000000003,0.40290000000000004],\"min\":0.40190000000000003,\"max\":0.40290000000000004,\"median\":0.40240000000000004,\"mean\":0.40240000000000004}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.3313061938497235,
             "range": "± 0.00017380755386916207",
             "unit": "s",
             "extra": "{\"times\":[5.331183293349762,5.331429094349686],\"min\":5.331183293349762,\"max\":5.331429094349686,\"median\":5.3313061938497235,\"mean\":5.3313061938497235}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 416,
             "range": "± 1.4142135623730951",
             "unit": "MB",
             "extra": "{\"times\":[417,415],\"min\":415,\"max\":417,\"median\":416,\"mean\":416,\"stddev\":1.4142135623730951}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.10375,
             "range": "± 0.004242640687120074",
             "unit": "s",
@@ -189656,21 +189656,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1509500000000004,2.15795],\"min\":2.1509500000000004,\"max\":2.15795,\"median\":2.15445,\"mean\":2.15445,\"user\":{\"times\":[1.7402000000000002,1.7692],\"min\":1.7402000000000002,\"max\":1.7692,\"median\":1.7547000000000001,\"mean\":1.7547000000000001},\"system\":{\"times\":[0.41075,0.38875000000000004],\"min\":0.38875000000000004,\"max\":0.41075,\"median\":0.39975000000000005,\"mean\":0.39975000000000005}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.337023847799888,
             "range": "± 0.008447223472700173",
             "unit": "s",
             "extra": "{\"times\":[5.331050758800144,5.342996936799633],\"min\":5.331050758800144,\"max\":5.342996936799633,\"median\":5.337023847799888,\"mean\":5.337023847799888}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 413.5,
             "range": "± 0.7071067811865476",
             "unit": "MB",
             "extra": "{\"times\":[414,413],\"min\":413,\"max\":414,\"median\":413.5,\"mean\":413.5,\"stddev\":0.7071067811865476}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.1099499999999995,
             "range": "± 0.016970562748477157",
             "unit": "s",
@@ -191528,21 +191528,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1408,2.1538],\"min\":2.1408,\"max\":2.1538,\"median\":2.1473,\"mean\":2.1473,\"user\":{\"times\":[1.74535,1.73935],\"min\":1.73935,\"max\":1.74535,\"median\":1.74235,\"mean\":1.74235},\"system\":{\"times\":[0.39545,0.41445],\"min\":0.39545,\"max\":0.41445,\"median\":0.40495000000000003,\"mean\":0.40495000000000003}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.307643486599577,
             "range": "± 0.010910840774724897",
             "unit": "s",
             "extra": "{\"times\":[5.299928357099323,5.315358616099832],\"min\":5.299928357099323,\"max\":5.315358616099832,\"median\":5.307643486599577,\"mean\":5.307643486599577}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 372.5,
             "range": "± 3.5355339059327378",
             "unit": "MB",
             "extra": "{\"times\":[370,375],\"min\":370,\"max\":375,\"median\":372.5,\"mean\":372.5,\"stddev\":3.5355339059327378}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.0813,
             "range": "± 0.013435028842544494",
             "unit": "s",
@@ -193400,21 +193400,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.15585,2.15485],\"min\":2.15485,\"max\":2.15585,\"median\":2.1553500000000003,\"mean\":2.1553500000000003,\"user\":{\"times\":[1.7213,1.7513],\"min\":1.7213,\"max\":1.7513,\"median\":1.7363,\"mean\":1.7363},\"system\":{\"times\":[0.43455,0.40355],\"min\":0.40355,\"max\":0.43455,\"median\":0.41905000000000003,\"mean\":0.41905000000000003}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.30658378689983,
             "range": "± 0.006446157950962654",
             "unit": "s",
             "extra": "{\"times\":[5.311141908899555,5.302025664900104],\"min\":5.302025664900104,\"max\":5.311141908899555,\"median\":5.30658378689983,\"mean\":5.30658378689983}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 375,
             "range": "± 1.4142135623730951",
             "unit": "MB",
             "extra": "{\"times\":[376,374],\"min\":374,\"max\":376,\"median\":375,\"mean\":375,\"stddev\":1.4142135623730951}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.05335,
             "range": "± 0.01909188309203688",
             "unit": "s",
@@ -195272,21 +195272,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.14275,2.12375],\"min\":2.12375,\"max\":2.14275,\"median\":2.13325,\"mean\":2.13325,\"user\":{\"times\":[1.74155,1.70655],\"min\":1.70655,\"max\":1.74155,\"median\":1.72405,\"mean\":1.72405},\"system\":{\"times\":[0.4012,0.41719999999999996],\"min\":0.4012,\"max\":0.41719999999999996,\"median\":0.4092,\"mean\":0.4092}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.303230129000079,
             "range": "± 0.0054514079099199685",
             "unit": "s",
             "extra": "{\"times\":[5.299375401499961,5.307084856500198],\"min\":5.299375401499961,\"max\":5.307084856500198,\"median\":5.303230129000079,\"mean\":5.303230129000079}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 374,
             "range": "± 1.4142135623730951",
             "unit": "MB",
             "extra": "{\"times\":[373,375],\"min\":373,\"max\":375,\"median\":374,\"mean\":374,\"stddev\":1.4142135623730951}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.03825,
             "range": "± 0.0007071067811867838",
             "unit": "s",
@@ -197144,21 +197144,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1568,2.1588],\"min\":2.1568,\"max\":2.1588,\"median\":2.1578,\"mean\":2.1578,\"user\":{\"times\":[1.72655,1.74755],\"min\":1.72655,\"max\":1.74755,\"median\":1.73705,\"mean\":1.73705},\"system\":{\"times\":[0.43025,0.41125],\"min\":0.41125,\"max\":0.43025,\"median\":0.42075,\"mean\":0.42075}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.2961106099498,
             "range": "± 0.007933844857842222",
             "unit": "s",
             "extra": "{\"times\":[5.301720685449662,5.290500534449937],\"min\":5.290500534449937,\"max\":5.301720685449662,\"median\":5.2961106099498,\"mean\":5.2961106099498}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 377,
             "range": "± 2.8284271247461903",
             "unit": "MB",
             "extra": "{\"times\":[375,379],\"min\":375,\"max\":379,\"median\":377,\"mean\":377,\"stddev\":2.8284271247461903}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.0633,
             "range": "± 0.012020815280170927",
             "unit": "s",
@@ -199016,21 +199016,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1399500000000002,2.13895],\"min\":2.13895,\"max\":2.1399500000000002,\"median\":2.13945,\"mean\":2.13945,\"user\":{\"times\":[1.74255,1.73155],\"min\":1.73155,\"max\":1.74255,\"median\":1.73705,\"mean\":1.73705},\"system\":{\"times\":[0.39740000000000003,0.4074],\"min\":0.39740000000000003,\"max\":0.4074,\"median\":0.4024,\"mean\":0.4024}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.306983587049833,
             "range": "± 0.015114973839603191",
             "unit": "s",
             "extra": "{\"times\":[5.317671487549274,5.296295686550392],\"min\":5.296295686550392,\"max\":5.317671487549274,\"median\":5.306983587049833,\"mean\":5.306983587049833}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 374.5,
             "range": "± 3.5355339059327378",
             "unit": "MB",
             "extra": "{\"times\":[372,377],\"min\":372,\"max\":377,\"median\":374.5,\"mean\":374.5,\"stddev\":3.5355339059327378}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.05595,
             "range": "± 0.014142135623730649",
             "unit": "s",
@@ -200888,21 +200888,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1487,2.1647],\"min\":2.1487,\"max\":2.1647,\"median\":2.1567,\"mean\":2.1567,\"user\":{\"times\":[1.7135,1.7535],\"min\":1.7135,\"max\":1.7535,\"median\":1.7335,\"mean\":1.7335},\"system\":{\"times\":[0.4352,0.41119999999999995],\"min\":0.41119999999999995,\"max\":0.4352,\"median\":0.42319999999999997,\"mean\":0.42319999999999997}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.334445954799838,
             "range": "± 0.020505593194499478",
             "unit": "s",
             "extra": "{\"times\":[5.348945598799921,5.319946310799755],\"min\":5.319946310799755,\"max\":5.348945598799921,\"median\":5.334445954799838,\"mean\":5.334445954799838}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 374.5,
             "range": "± 3.5355339059327378",
             "unit": "MB",
             "extra": "{\"times\":[372,377],\"min\":372,\"max\":377,\"median\":374.5,\"mean\":374.5,\"stddev\":3.5355339059327378}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.0892,
             "range": "± 0.03323401871576816",
             "unit": "s",
@@ -202760,21 +202760,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1328,2.1448],\"min\":2.1328,\"max\":2.1448,\"median\":2.1388,\"mean\":2.1388,\"user\":{\"times\":[1.73165,1.72965],\"min\":1.72965,\"max\":1.73165,\"median\":1.7306499999999998,\"mean\":1.7306499999999998},\"system\":{\"times\":[0.40115,0.41514999999999996],\"min\":0.40115,\"max\":0.41514999999999996,\"median\":0.40815,\"mean\":0.40815}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.307538179850345,
             "range": "± 0.0052151006020988745",
             "unit": "s",
             "extra": "{\"times\":[5.31122581285066,5.303850546850032],\"min\":5.303850546850032,\"max\":5.31122581285066,\"median\":5.307538179850345,\"mean\":5.307538179850345}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 375.5,
             "range": "± 0.7071067811865476",
             "unit": "MB",
             "extra": "{\"times\":[375,376],\"min\":375,\"max\":376,\"median\":375.5,\"mean\":375.5,\"stddev\":0.7071067811865476}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.039300000000001,
             "range": "± 0.00494974746830623",
             "unit": "s",
@@ -204632,21 +204632,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1397999999999997,2.1837999999999997],\"min\":2.1397999999999997,\"max\":2.1837999999999997,\"median\":2.1617999999999995,\"mean\":2.1617999999999995,\"user\":{\"times\":[1.7663499999999999,1.7643499999999999],\"min\":1.7643499999999999,\"max\":1.7663499999999999,\"median\":1.7653499999999998,\"mean\":1.7653499999999998},\"system\":{\"times\":[0.37345,0.41945],\"min\":0.37345,\"max\":0.41945,\"median\":0.39644999999999997,\"mean\":0.39644999999999997}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.303096508249967,
             "range": "± 0.009233835219395768",
             "unit": "s",
             "extra": "{\"times\":[5.3096258157499605,5.296567200749973],\"min\":5.296567200749973,\"max\":5.3096258157499605,\"median\":5.303096508249967,\"mean\":5.303096508249967}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 374.5,
             "range": "± 0.7071067811865476",
             "unit": "MB",
             "extra": "{\"times\":[375,374],\"min\":374,\"max\":375,\"median\":374.5,\"mean\":374.5,\"stddev\":0.7071067811865476}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.0473,
             "range": "± 0.012020815280171555",
             "unit": "s",
@@ -206504,21 +206504,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.15375,2.1437500000000003],\"min\":2.1437500000000003,\"max\":2.15375,\"median\":2.14875,\"mean\":2.14875,\"user\":{\"times\":[1.7671000000000001,1.7381000000000002],\"min\":1.7381000000000002,\"max\":1.7671000000000001,\"median\":1.7526000000000002,\"mean\":1.7526000000000002},\"system\":{\"times\":[0.38665,0.40564999999999996],\"min\":0.38665,\"max\":0.40564999999999996,\"median\":0.39615,\"mean\":0.39615}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.29741293099951,
             "range": "± 0.022010963427410428",
             "unit": "s",
             "extra": "{\"times\":[5.3129770324994805,5.2818488294995385],\"min\":5.2818488294995385,\"max\":5.3129770324994805,\"median\":5.29741293099951,\"mean\":5.29741293099951}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 375.5,
             "range": "± 3.5355339059327378",
             "unit": "MB",
             "extra": "{\"times\":[378,373],\"min\":373,\"max\":378,\"median\":375.5,\"mean\":375.5,\"stddev\":3.5355339059327378}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.094750000000001,
             "range": "± 0.08909545442950523",
             "unit": "s",
@@ -208376,21 +208376,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1427500000000004,2.16575],\"min\":2.1427500000000004,\"max\":2.16575,\"median\":2.15425,\"mean\":2.15425,\"user\":{\"times\":[1.7343000000000002,1.7433],\"min\":1.7343000000000002,\"max\":1.7433,\"median\":1.7388000000000001,\"mean\":1.7388000000000001},\"system\":{\"times\":[0.40845,0.42245],\"min\":0.40845,\"max\":0.42245,\"median\":0.41545,\"mean\":0.41545}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.310789715800201,
             "range": "± 0.011285255936661605",
             "unit": "s",
             "extra": "{\"times\":[5.318769596800441,5.302809834799962],\"min\":5.302809834799962,\"max\":5.318769596800441,\"median\":5.310789715800201,\"mean\":5.310789715800201}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 375,
             "range": "± 1.4142135623730951",
             "unit": "MB",
             "extra": "{\"times\":[374,376],\"min\":374,\"max\":376,\"median\":375,\"mean\":375,\"stddev\":1.4142135623730951}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.06825,
             "range": "± 0.03606244584051403",
             "unit": "s",
@@ -210248,21 +210248,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.13785,2.14385],\"min\":2.13785,\"max\":2.14385,\"median\":2.14085,\"mean\":2.14085,\"user\":{\"times\":[1.7665499999999998,1.77155],\"min\":1.7665499999999998,\"max\":1.77155,\"median\":1.76905,\"mean\":1.76905},\"system\":{\"times\":[0.3713,0.3723],\"min\":0.3713,\"max\":0.3723,\"median\":0.3718,\"mean\":0.3718}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.301738189249951,
             "range": "± 0.013562706164297092",
             "unit": "s",
             "extra": "{\"times\":[5.2921479077499365,5.311328470749967],\"min\":5.2921479077499365,\"max\":5.311328470749967,\"median\":5.301738189249951,\"mean\":5.301738189249951}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 378.5,
             "range": "± 9.192388155425117",
             "unit": "MB",
             "extra": "{\"times\":[385,372],\"min\":372,\"max\":385,\"median\":378.5,\"mean\":378.5,\"stddev\":9.192388155425117}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.07385,
             "range": "± 0.0028284271247465066",
             "unit": "s",
@@ -212120,21 +212120,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.15365,2.14565],\"min\":2.14565,\"max\":2.15365,\"median\":2.14965,\"mean\":2.14965,\"user\":{\"times\":[1.74075,1.73675],\"min\":1.73675,\"max\":1.74075,\"median\":1.73875,\"mean\":1.73875},\"system\":{\"times\":[0.4129,0.4089],\"min\":0.4089,\"max\":0.4129,\"median\":0.4109,\"mean\":0.4109}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.294370712200133,
             "range": "± 0.008828682125738941",
             "unit": "s",
             "extra": "{\"times\":[5.300613533200184,5.288127891200083],\"min\":5.288127891200083,\"max\":5.300613533200184,\"median\":5.294370712200133,\"mean\":5.294370712200133}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 376.5,
             "range": "± 16.263455967290593",
             "unit": "MB",
             "extra": "{\"times\":[365,388],\"min\":365,\"max\":388,\"median\":376.5,\"mean\":376.5,\"stddev\":16.263455967290593}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.04665,
             "range": "± 8.881784197001252e-16",
             "unit": "s",
@@ -213992,21 +213992,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1318,2.1588000000000003],\"min\":2.1318,\"max\":2.1588000000000003,\"median\":2.1453,\"mean\":2.1453,\"user\":{\"times\":[1.72855,1.72855],\"min\":1.72855,\"max\":1.72855,\"median\":1.72855,\"mean\":1.72855},\"system\":{\"times\":[0.40325000000000005,0.43025],\"min\":0.40325000000000005,\"max\":0.43025,\"median\":0.41675000000000006,\"mean\":0.41675000000000006}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.295200916749891,
             "range": "± 0.007924601558080351",
             "unit": "s",
             "extra": "{\"times\":[5.300804456249811,5.2895973772499705],\"min\":5.2895973772499705,\"max\":5.300804456249811,\"median\":5.295200916749891,\"mean\":5.295200916749891}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 368.5,
             "range": "± 4.949747468305833",
             "unit": "MB",
             "extra": "{\"times\":[365,372],\"min\":365,\"max\":372,\"median\":368.5,\"mean\":368.5,\"stddev\":4.949747468305833}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.0743,
             "range": "± 0.07707463914933367",
             "unit": "s",
@@ -215864,21 +215864,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1477,2.1917],\"min\":2.1477,\"max\":2.1917,\"median\":2.1696999999999997,\"mean\":2.1696999999999997,\"user\":{\"times\":[1.72645,1.7584499999999998],\"min\":1.72645,\"max\":1.7584499999999998,\"median\":1.7424499999999998,\"mean\":1.7424499999999998},\"system\":{\"times\":[0.42125,0.43325],\"min\":0.42125,\"max\":0.43325,\"median\":0.42725,\"mean\":0.42725}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.306809458349878,
             "range": "± 0.01355456029405462",
             "unit": "s",
             "extra": "{\"times\":[5.29722493684995,5.316393979849806],\"min\":5.29722493684995,\"max\":5.316393979849806,\"median\":5.306809458349878,\"mean\":5.306809458349878}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 375,
             "range": "± 1.4142135623730951",
             "unit": "MB",
             "extra": "{\"times\":[374,376],\"min\":374,\"max\":376,\"median\":375,\"mean\":375,\"stddev\":1.4142135623730951}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.068200000000001,
             "range": "± 0.006363961030679169",
             "unit": "s",
@@ -217736,21 +217736,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[2.1477500000000003,2.14275],\"min\":2.14275,\"max\":2.1477500000000003,\"median\":2.14525,\"mean\":2.14525,\"user\":{\"times\":[1.7133,1.7273],\"min\":1.7133,\"max\":1.7273,\"median\":1.7203,\"mean\":1.7203},\"system\":{\"times\":[0.43445,0.41545],\"min\":0.41545,\"max\":0.43445,\"median\":0.42495,\"mean\":0.42495}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.304444027750147,
             "range": "± 0.0026183457006550954",
             "unit": "s",
             "extra": "{\"times\":[5.302592577749723,5.306295477750571],\"min\":5.302592577749723,\"max\":5.306295477750571,\"median\":5.304444027750147,\"mean\":5.304444027750147}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 373.5,
             "range": "± 2.1213203435596424",
             "unit": "MB",
             "extra": "{\"times\":[372,375],\"min\":372,\"max\":375,\"median\":373.5,\"mean\":373.5,\"stddev\":2.1213203435596424}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 7.06775,
             "range": "± 0.01272792206135771",
             "unit": "s",
@@ -219608,21 +219608,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[1.87585,1.8958499999999998],\"min\":1.87585,\"max\":1.8958499999999998,\"median\":1.88585,\"mean\":1.88585,\"user\":{\"times\":[1.48355,1.5025499999999998],\"min\":1.48355,\"max\":1.5025499999999998,\"median\":1.4930499999999998,\"mean\":1.4930499999999998},\"system\":{\"times\":[0.39230000000000004,0.39330000000000004],\"min\":0.39230000000000004,\"max\":0.39330000000000004,\"median\":0.39280000000000004,\"mean\":0.39280000000000004}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.0505126382495735,
             "range": "± 0.000671489812404045",
             "unit": "s",
             "extra": "{\"times\":[5.050987453249422,5.050037823249725],\"min\":5.050037823249725,\"max\":5.050987453249422,\"median\":5.0505126382495735,\"mean\":5.0505126382495735}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 356,
             "range": "± 9.899494936611665",
             "unit": "MB",
             "extra": "{\"times\":[349,363],\"min\":349,\"max\":363,\"median\":356,\"mean\":356,\"stddev\":9.899494936611665}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 6.46885,
             "range": "± 0.04808326112068559",
             "unit": "s",
@@ -221480,21 +221480,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[1.8979000000000001,1.8829000000000002],\"min\":1.8829000000000002,\"max\":1.8979000000000001,\"median\":1.8904,\"mean\":1.8904,\"user\":{\"times\":[1.5034,1.4844000000000002],\"min\":1.4844000000000002,\"max\":1.5034,\"median\":1.4939,\"mean\":1.4939},\"system\":{\"times\":[0.3945,0.3985],\"min\":0.3945,\"max\":0.3985,\"median\":0.3965,\"mean\":0.3965}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.0482964892002755,
             "range": "± 0.018889169719416368",
             "unit": "s",
             "extra": "{\"times\":[5.034939829200693,5.061653149199858],\"min\":5.034939829200693,\"max\":5.061653149199858,\"median\":5.0482964892002755,\"mean\":5.0482964892002755}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 352,
             "range": "± 4.242640687119285",
             "unit": "MB",
             "extra": "{\"times\":[349,355],\"min\":349,\"max\":355,\"median\":352,\"mean\":352,\"stddev\":4.242640687119285}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 6.479900000000001,
             "range": "± 0.014142135623731277",
             "unit": "s",
@@ -223352,21 +223352,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[1.8907000000000003,1.8727000000000003],\"min\":1.8727000000000003,\"max\":1.8907000000000003,\"median\":1.8817000000000004,\"mean\":1.8817000000000004,\"user\":{\"times\":[1.4823000000000002,1.4963000000000002],\"min\":1.4823000000000002,\"max\":1.4963000000000002,\"median\":1.4893,\"mean\":1.4893},\"system\":{\"times\":[0.4084,0.3764],\"min\":0.3764,\"max\":0.4084,\"median\":0.39239999999999997,\"mean\":0.39239999999999997}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.052876406300115,
             "range": "± 0.04123452323665683",
             "unit": "s",
             "extra": "{\"times\":[5.0237191953004805,5.082033617299749],\"min\":5.0237191953004805,\"max\":5.082033617299749,\"median\":5.052876406300115,\"mean\":5.052876406300115}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 364.5,
             "range": "± 23.33452377915607",
             "unit": "MB",
             "extra": "{\"times\":[381,348],\"min\":348,\"max\":381,\"median\":364.5,\"mean\":364.5,\"stddev\":23.33452377915607}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 6.4627,
             "range": "± 0.13859292911256438",
             "unit": "s",
@@ -225224,21 +225224,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[1.8949500000000001,1.89195],\"min\":1.89195,\"max\":1.8949500000000001,\"median\":1.89345,\"mean\":1.89345,\"user\":{\"times\":[1.4813,1.5063],\"min\":1.4813,\"max\":1.5063,\"median\":1.4938,\"mean\":1.4938},\"system\":{\"times\":[0.41364999999999996,0.38565],\"min\":0.38565,\"max\":0.41364999999999996,\"median\":0.39964999999999995,\"mean\":0.39964999999999995}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.039978365649749,
             "range": "± 0.0028789979870168497",
             "unit": "s",
             "extra": "{\"times\":[5.037942606650107,5.042014124649391],\"min\":5.037942606650107,\"max\":5.042014124649391,\"median\":5.039978365649749,\"mean\":5.039978365649749}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 364.5,
             "range": "± 21.920310216782973",
             "unit": "MB",
             "extra": "{\"times\":[349,380],\"min\":349,\"max\":380,\"median\":364.5,\"mean\":364.5,\"stddev\":21.920310216782973}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 6.44595,
             "range": "± 0.062225396744416864",
             "unit": "s",
@@ -227096,21 +227096,21 @@ window.BENCHMARK_DATA = {
             "extra": "{\"times\":[1.8769,1.8969],\"min\":1.8769,\"max\":1.8969,\"median\":1.8869,\"mean\":1.8869,\"user\":{\"times\":[1.4896,1.5136],\"min\":1.4896,\"max\":1.5136,\"median\":1.5016,\"mean\":1.5016},\"system\":{\"times\":[0.38730000000000003,0.38330000000000003],\"min\":0.38330000000000003,\"max\":0.38730000000000003,\"median\":0.38530000000000003,\"mean\":0.38530000000000003}}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol",
             "value": 5.0335636815498574,
             "range": "± 0.001541084074908058",
             "unit": "s",
             "extra": "{\"times\":[5.034653392549604,5.032473970550112],\"min\":5.032473970550112,\"max\":5.034653392549604,\"median\":5.0335636815498574,\"mean\":5.0335636815498574}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (peak RSS)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (peak RSS)",
             "value": 368,
             "range": "± 26.870057685088806",
             "unit": "MB",
             "extra": "{\"times\":[349,387],\"min\":349,\"max\":387,\"median\":368,\"mean\":368,\"stddev\":26.870057685088806}"
           },
           {
-            "name": "ens-contracts / edit & compile Solidity contract with max dependents: contracts/utils/LibMem/LibMem.sol (cpu)",
+            "name": "ens-contracts / edit & compile Solidity contract with max deps: contracts/utils/LibMem/LibMem.sol (cpu)",
             "value": 6.4404,
             "range": "± 0.07990306627407955",
             "unit": "s",
